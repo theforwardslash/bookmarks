@@ -1,11 +1,11 @@
 ### Mobile - iOS
 - Spring animations
-  - Facebook POP https://github.com/facebook/pop
-  - Spring - https://github.com/MengTo/Spring
-  - iOS 8 Spring (tutorial) - http://www.appcoda.com/view-animation-in-swift/
+  - Facebook POP: https://github.com/facebook/pop
+  - Spring: https://github.com/MengTo/Spring
+  - iOS 8 Spring (tutorial): http://www.appcoda.com/view-animation-in-swift/
 
 ### Mobile - Android Development
-- Tutorials especially implementing MD on legacy devices http://www.android4devs.com/search/label/Tutorial
+- Tutorials especially implementing MD on legacy: devices http://www.android4devs.com/search/label/Tutorial
 
 ### Mobile - React Native Development
 - http://facebook.github.io/react-native/
@@ -46,3 +46,6 @@
 
 ### Stock Videos
 - http://www.lifeofvids.com
+
+### Sketch
+- Export assets for iOS, Android, and Windows Phone: https://github.com/geertwille/sketch-export-assets
