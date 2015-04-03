@@ -1,8 +1,3 @@
-# Bookmarks
-Submit pull request to add bookmarks
-
-
-
 ### Mobile - Android Development
 - Tutorials especially implementing MD on legacy devices http://www.android4devs.com/search/label/Tutorial
 
