@@ -1,3 +1,9 @@
+### Mobile - iOS
+- Spring animations
+  - Facebook POP https://github.com/facebook/pop
+  - Spring - https://github.com/MengTo/Spring
+  - iOS 8 Spring (tutorial) - http://www.appcoda.com/view-animation-in-swift/
+
 ### Mobile - Android Development
 - Tutorials especially implementing MD on legacy devices http://www.android4devs.com/search/label/Tutorial
 
