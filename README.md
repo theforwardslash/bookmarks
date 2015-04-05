@@ -6,6 +6,7 @@
 
 ### Mobile - Android Development
 - Tutorials especially implementing MD on legacy: devices http://www.android4devs.com/search/label/Tutorial
+- SQLite Database tutorial: http://www.androidhive.info/2011/11/android-sqlite-database-tutorial/
 
 ### Mobile - React Native Development
 - http://facebook.github.io/react-native/
