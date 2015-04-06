@@ -15,12 +15,20 @@
 - (Examples) https://github.com/iSimar/HackerNews-React-Native
 - (Examples) PropertyFinder App : https://github.com/ColinEberhardt/ReactNative-PropertyFinder
 - (Examples) Facebook Login : https://github.com/brentvatne/react-native-login
+- (Examples) RedditReact (JSON example) : https://github.com/mathieuancelin/reddit-react-native
+- (Examples) ToDo (CRUD example) : https://github.com/joemaddalone/react-native-todo
 - (Component) Camera : https://github.com/lwansbrough/react-native-camera
 - (Component) Carousel : https://github.com/nick/react-native-carousel
 - (Component) Listener : https://github.com/erikras/react-native-listener
 - (Component) HTMLView : https://github.com/jsdf/react-native-htmlview
 - (Component) FormHandler : https://github.com/gcanti/tcomb-form-native
 - (Component) RefreshableListView : https://github.com/jsdf/react-native-refreshable-listview
+- (Component) TheSidebar : https://github.com/dzannotti/react-thesidebar
+- (Component) ParseHTML (include HTML codes) : https://github.com/iSimar/ParseHTML-React-Native
+- (Component) ReactNative CoffeeScript : https://github.com/diegodurli/ReactNativeCoffee
+- (Component) Customizeable Navbar : https://github.com/Kureev/react-native-navbar
+- (Component) FlexBox Playground : https://github.com/glenjamin/ReactNativeFlexboxPlayground
+- (Component) SQLite : https://github.com/almost/react-native-sqlite
 
 ### Mobile - Inspirations (UI/UX)
 - http://www.android-app-patterns.com/
