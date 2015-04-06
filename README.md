@@ -18,6 +18,9 @@
 - (Component) Camera : https://github.com/lwansbrough/react-native-camera
 - (Component) Carousel : https://github.com/nick/react-native-carousel
 - (Component) Listener : https://github.com/erikras/react-native-listener
+- (Component) HTMLView : https://github.com/jsdf/react-native-htmlview
+- (Component) FormHandler : https://github.com/gcanti/tcomb-form-native
+- (Component) RefreshableListView : https://github.com/jsdf/react-native-refreshable-listview
 
 ### Mobile - Inspirations (UI/UX)
 - http://www.android-app-patterns.com/
