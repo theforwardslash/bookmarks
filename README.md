@@ -61,3 +61,6 @@
 
 ### Sketch
 - Export assets for iOS, Android, and Windows Phone: https://github.com/geertwille/sketch-export-assets
+
+### JavaScript (ReactJS)
+- Do You React?: https://laracasts.com/series/do-you-react
