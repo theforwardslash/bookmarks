@@ -1,4 +1,5 @@
 ### Mobile - iOS
+- The iOS Design Guidelines: http://iosdesign.ivomynttinen.com
 - Spring animations
   - Facebook POP: https://github.com/facebook/pop
   - Spring: https://github.com/MengTo/Spring
