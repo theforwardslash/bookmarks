@@ -2,12 +2,12 @@ Forwardslash Bookmarks Collection
 =======================================
 
 ##Mobile Apps Development
-###Mobile - Design Guidelines
+###Design Guidelines
 - [The iOS Design Guidelines](http://iosdesign.ivomynttinen.com)
 - [Google Material Design Guidelines](http://www.google.com/design/spec/material-design/introduction.html)
 - [Windows Phone 8 Design Guidelines](https://dev.windows.com/en-us/design/modern-design)
 
-###Mobile - Inspirations (UI/UX)
+###Inspirations (UI/UX)
 - [Android App Patterns](http://www.android-app-patterns.com/)
 - [Android Niceties](http://androidniceties.tumblr.com/)
 - [Android Inspired UI](http://android.inspired-ui.com/)
@@ -20,7 +20,7 @@ Forwardslash Bookmarks Collection
 - [App Design Served](http://www.appdesignserved.co/)
 - [UI 4 App](http://ui4app.com/)
 
-###Mobile - iOS
+###iOS
 - [The iOS Design Guidelines](http://iosdesign.ivomynttinen.com)
 - Spring animations
   - [Facebook POP](https://github.com/facebook/pop)
@@ -28,12 +28,12 @@ Forwardslash Bookmarks Collection
   - [iOS 8 Spring (tutorial)](http://www.appcoda.com/view-animation-in-swift/)
 - [App Icon Template (PSD)](http://appicontemplate.com/ios8)
 
-###Mobile - Android Development
+###Android
 - [Tutorials especially implementing MD on legacy: devices](http://www.android4devs.com/search/label/Tutorial)
 - [SQLite Database tutorial](http://www.androidhive.info/2011/11/android-sqlite-database-tutorial/)
 - [Launcher Icon Template (PSD)](http://appicontemplate.com/android)
 
-###Mobile - React Native Development
+###React Native
 - [React Native Main Site](http://facebook.github.io/react-native/)
 - [Introducing React Native: Building Apps with JavaScript](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
 - [First Impressions using React Native](http://jlongster.com/First-Impressions-using-React-Native)
@@ -59,7 +59,7 @@ Forwardslash Bookmarks Collection
 
 ##Front-end Development (HTML, CSS & Javascript)
 
-###Front-end Tools
+###Tools
 - [Basic Gulp Setup with Livereload](http://rhumaric.com/2014/01/livereload-magic-gulp-style/)
 
 ###CSS
@@ -115,3 +115,6 @@ Forwardslash Bookmarks Collection
 
 ###Stock Videos
 - [Life of Vids](http://www.lifeofvids.com)
+
+# Contibuting
+If you find this list useful and have some additions / corrections, feel free to submit a pull request. :v:
