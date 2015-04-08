@@ -99,4 +99,4 @@ Forwardslash Devs. Bookmarks Collection
 - [Basic Gulp Setup with Livereload](http://rhumaric.com/2014/01/livereload-magic-gulp-style/)
 
 ##Sketch Tutorials
-- Sketch Basics from Treehouse: http://teamtreehouse.com/library/sketch-basics
+- [Sketch Basics from Treehouse](http://teamtreehouse.com/library/sketch-basics)
