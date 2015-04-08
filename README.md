@@ -33,6 +33,7 @@
 - (Component) Customizeable Navbar : https://github.com/Kureev/react-native-navbar
 - (Component) FlexBox Playground : https://github.com/glenjamin/ReactNativeFlexboxPlayground
 - (Component) SQLite : https://github.com/almost/react-native-sqlite
+- (Component) Video : https://github.com/brentvatne/react-native-video
 
 ### Mobile - Inspirations (UI/UX)
 - http://www.android-app-patterns.com/
