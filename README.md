@@ -67,3 +67,6 @@
 ### JavaScript (ReactJS)
 - Do You React?: https://laracasts.com/series/do-you-react
 - SublimeText Snippets : https://github.com/reactjs/sublime-react
+
+### Responsive Designs and Workaround
+- Responsive Images: http://davidwalsh.name/responsive-design
