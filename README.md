@@ -73,3 +73,16 @@
 
 ### Responsive Designs and Workaround
 - Responsive Images: http://davidwalsh.name/responsive-design
+
+### Email Templating Tools & References
+- Email Client CSS Support Cheat Sheet: http://templates.mailchimp.com/resources/email-client-css-support/
+- HTML to Plain Text: http://templates.mailchimp.com/resources/html-to-text/
+- CSS Inliner: http://templates.mailchimp.com/resources/inline-css/
+- Email Design Guides: https://www.campaignmonitor.com/guides/
+
+### AngularJS Tutorials
+- Shaping Up with AngularJS: http://campus.codeschool.com/courses/shaping-up-with-angular-js/
+- Clone TaskRabbit using AngularJS: https://code4startup.com/projects/ninja-learn-angularjs-firebase-by-cloning-udemy
+
+### Sketch Tutorials
+- Sketch Basics from Treehouse: http://teamtreehouse.com/library/sketch-basics
