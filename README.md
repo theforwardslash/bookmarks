@@ -1,9 +1,9 @@
 Forwardslash Devs. Bookmarks Collection
 =======================================
 
-[The iOS Design Guidelines](http://iosdesign.ivomynttinen.com)
-[Google Material Design Guidelines](http://www.google.com/design/spec/material-design/introduction.html)
-[Windows Phone 8 Design Guidelines](https://dev.windows.com/en-us/design/modern-design)
+- [The iOS Design Guidelines](http://iosdesign.ivomynttinen.com)
+- [Google Material Design Guidelines](http://www.google.com/design/spec/material-design/introduction.html)
+- [Windows Phone 8 Design Guidelines](https://dev.windows.com/en-us/design/modern-design)
 
 ##Mobile - iOS
 - [The iOS Design Guidelines](http://iosdesign.ivomynttinen.com)
