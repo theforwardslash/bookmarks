@@ -116,5 +116,5 @@ Forwardslash Bookmarks Collection
 ###Stock Videos
 - [Life of Vids](http://www.lifeofvids.com)
 
-# Contibuting
+# Contributing
 If you find this list useful and have some additions / corrections, feel free to submit a pull request. :v:
