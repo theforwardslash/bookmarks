@@ -62,6 +62,7 @@ Forwardslash Bookmarks Collection
 
 ###Tools
 - [Basic Gulp Setup with Livereload](http://rhumaric.com/2014/01/livereload-magic-gulp-style/)
+- [Easing Functions Cheat Sheet](http://easings.net/)
 
 ###CSS
 - [Getting Started with Less](https://scotch.io/tutorials/getting-started-with-less)
