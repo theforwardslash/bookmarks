@@ -1,11 +1,26 @@
-Forwardslash Devs. Bookmarks Collection
+Forwardslash Bookmarks Collection
 =======================================
 
+##Mobile Apps Development
+###Mobile - Design Guidelines
 - [The iOS Design Guidelines](http://iosdesign.ivomynttinen.com)
 - [Google Material Design Guidelines](http://www.google.com/design/spec/material-design/introduction.html)
 - [Windows Phone 8 Design Guidelines](https://dev.windows.com/en-us/design/modern-design)
 
-##Mobile - iOS
+###Mobile - Inspirations (UI/UX)
+- [Android App Patterns](http://www.android-app-patterns.com/)
+- [Android Niceties](http://androidniceties.tumblr.com/)
+- [Android Inspired UI](http://android.inspired-ui.com/)
+- [Mobile Design Inspiration](http://mobiledesigninspiration.tumblr.com/)
+- [iOS Inspiration](http://www.iospirations.com/)
+- [Inspiration Mobile](http://inspirationmobile.tumblr.com/)
+- [Pttrns](http://pttrns.com/)
+- [Inspired UI](http://inspired-ui.com/)
+- [Capptivate](http://capptivate.co/)
+- [App Design Served](http://www.appdesignserved.co/)
+- [UI 4 App](http://ui4app.com/)
+
+###Mobile - iOS
 - [The iOS Design Guidelines](http://iosdesign.ivomynttinen.com)
 - Spring animations
   - [Facebook POP](https://github.com/facebook/pop)
@@ -13,12 +28,12 @@ Forwardslash Devs. Bookmarks Collection
   - [iOS 8 Spring (tutorial)](http://www.appcoda.com/view-animation-in-swift/)
 - [App Icon Template (PSD)](http://appicontemplate.com/ios8)
 
-##Mobile - Android Development
+###Mobile - Android Development
 - [Tutorials especially implementing MD on legacy: devices](http://www.android4devs.com/search/label/Tutorial)
 - [SQLite Database tutorial](http://www.androidhive.info/2011/11/android-sqlite-database-tutorial/)
 - [Launcher Icon Template (PSD)](http://appicontemplate.com/android)
 
-##Mobile - React Native Development
+###Mobile - React Native Development
 - [React Native Main Site](http://facebook.github.io/react-native/)
 - [Introducing React Native: Building Apps with JavaScript](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
 - [First Impressions using React Native](http://jlongster.com/First-Impressions-using-React-Native)
@@ -42,52 +57,27 @@ Forwardslash Devs. Bookmarks Collection
 - [(Component) SQLite](https://github.com/almost/react-native-sqlite)
 - [(Component) Video](https://github.com/brentvatne/react-native-video)
 
-##Mobile - Inspirations (UI/UX)
-- [Android App Patterns](http://www.android-app-patterns.com/)
-- [Android Niceties](http://androidniceties.tumblr.com/)
-- [Android Inspired UI](http://android.inspired-ui.com/)
-- [Mobile Design Inspiration](http://mobiledesigninspiration.tumblr.com/)
-- [iOS Inspiration](http://www.iospirations.com/)
-- [Inspiration Mobile](http://inspirationmobile.tumblr.com/)
-- [Pttrns](http://pttrns.com/)
-- [Inspired UI](http://inspired-ui.com/)
-- [Capptivate](http://capptivate.co/)
-- [App Design Served](http://www.appdesignserved.co/)
-- [UI 4 App](http://ui4app.com/)
+##Front-end Development (HTML, CSS & Javascript)
 
-##Icons - High quality icon set
-- [Ballicons](http://ballicons.net/)
-- [Ballicons2](http://pixelbuddha.net/ballicons2/)
-- [Streamline](http://www.streamlineicons.com/)
-- [Retina Icon](http://retinaicon.com/)
+###Front-end Tools
+- [Basic Gulp Setup with Livereload](http://rhumaric.com/2014/01/livereload-magic-gulp-style/)
 
-##Stock Photos
-- [Stock Snap](https://stocksnap.io/)
-- [Life of Pix](http://www.lifeofpix.com/)
-- [Unsplash](https://unsplash.com/)
-- [Gratisography](http://www.gratisography.com/)
-- [Splitshire](http://www.splitshire.com/)
+###CSS
+- [Getting Started with Less](https://scotch.io/tutorials/getting-started-with-less)
+- [Getting Started with SASS (with interactive examples)](https://scotch.io/tutorials/getting-started-with-sass)
+- [Building Interactive Scrolling Websites with ScrollMagic.js](https://scotch.io/tutorials/building-interactive-scrolling-websites-with-scrollmagic-js)
+- [Make Material Design Websites with the Materialize CSS Framework](https://scotch.io/tutorials/make-material-design-websites-with-the-materialize-css-framework)
 
-##Stock Videos
-- [Life of Vids](http://www.lifeofvids.com)
+###CSS Framework
+- [Understanding ZURB Foundation 5’s Grid System](https://scotch.io/tutorials/understanding-zurb-foundation-5s-grid-system)
+- [Bootstrap 3 Tips and Tricks You Might Not Know](https://scotch.io/bar-talk/bootstrap-3-tips-and-tricks-you-might-not-know)
+- [Understanding the Bootstrap 3 Grid System](https://scotch.io/tutorials/understanding-the-bootstrap-3-grid-system)
 
-##Sketch
-- [Assets Export for iOS, Android, and Windows Phone](https://github.com/geertwille/sketch-export-assets)
-
-##JavaScript (ReactJS)
+###JavaScript - ReactJS
 - [Do You React?](https://laracasts.com/series/do-you-react)
 - [SublimeText Snippets](https://github.com/reactjs/sublime-react)
 
-##Responsive Designs and Workaround
-- [David Walsh on Responsive Images](http://davidwalsh.name/responsive-design)
-
-##Email Templating Tools & References
-- [Email Client CSS Support Cheat Sheet](http://templates.mailchimp.com/resources/email-client-css-support/)
-- [HTML to Plain Text](http://templates.mailchimp.com/resources/html-to-text/)
-- [CSS Inliner](http://templates.mailchimp.com/resources/inline-css/)
-- [Email Design Guides](https://www.campaignmonitor.com/guides/)
-
-##AngularJS Tutorials
+###JavaScript - AngularJS
 - [Shaping Up with AngularJS](http://campus.codeschool.com/courses/shaping-up-with-angular-js/)
 - [Clone TaskRabbit using AngularJS](https://code4startup.com/projects/ninja-learn-angularjs-firebase-by-cloning-udemy)
 - [Login Function with AngularJS + Firebase](http://devsidestories.blogspot.com/2014/04/implementing-login-with-firebase-and.html)
@@ -95,17 +85,33 @@ Forwardslash Devs. Bookmarks Collection
 - [Mailchimp Signup with AngularJS](http://onehungrymind.com/build-mailchimp-signup-form-angularjs/)
 - [Landing page with Sign Up Form with AngularJS](http://www.fizerkhan.com/blog/posts/Startup-Landing-Pages-with-Firebase.html)
 
-##Gulp
-- [Basic Gulp Setup with Livereload](http://rhumaric.com/2014/01/livereload-magic-gulp-style/)
+###Email/Newsletter
+- [Email Client CSS Support Cheat Sheet](http://templates.mailchimp.com/resources/email-client-css-support/)
+- [HTML to Plain Text](http://templates.mailchimp.com/resources/html-to-text/)
+- [CSS Inliner](http://templates.mailchimp.com/resources/inline-css/)
+- [Email Design Guides](https://www.campaignmonitor.com/guides/)
 
-##Sketch Tutorials
+###Responsive Design
+- [David Walsh on Responsive Images](http://davidwalsh.name/responsive-design)
+
+##Design
+###Sketch
+- [Assets Export for iOS, Android, and Windows Phone](https://github.com/geertwille/sketch-export-assets)
 - [Sketch Basics from Treehouse](http://teamtreehouse.com/library/sketch-basics)
 
-## Useful Tutorials from Scotch.IO
-- [Understanding ZURB Foundation 5’s Grid System](https://scotch.io/tutorials/understanding-zurb-foundation-5s-grid-system)
-- [Bootstrap 3 Tips and Tricks You Might Not Know](https://scotch.io/bar-talk/bootstrap-3-tips-and-tricks-you-might-not-know)
-- [Understanding the Bootstrap 3 Grid System](https://scotch.io/tutorials/understanding-the-bootstrap-3-grid-system)
-- [Make Material Design Websites with the Materialize CSS Framework](https://scotch.io/tutorials/make-material-design-websites-with-the-materialize-css-framework)
-- [Getting Started with Less](https://scotch.io/tutorials/getting-started-with-less)
-- [Building Interactive Scrolling Websites with ScrollMagic.js](https://scotch.io/tutorials/building-interactive-scrolling-websites-with-scrollmagic-js)
-- [Getting Started with SASS (with interactive examples)](https://scotch.io/tutorials/getting-started-with-sass)
+##Resources
+###Icons - High quality icon set
+- [Ballicons](http://ballicons.net/)
+- [Ballicons2](http://pixelbuddha.net/ballicons2/)
+- [Streamline](http://www.streamlineicons.com/)
+- [Retina Icon](http://retinaicon.com/)
+
+###Stock Photos
+- [Stock Snap](https://stocksnap.io/)
+- [Life of Pix](http://www.lifeofpix.com/)
+- [Unsplash](https://unsplash.com/)
+- [Gratisography](http://www.gratisography.com/)
+- [Splitshire](http://www.splitshire.com/)
+
+###Stock Videos
+- [Life of Vids](http://www.lifeofvids.com)
