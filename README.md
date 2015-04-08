@@ -4,10 +4,12 @@
   - Facebook POP: https://github.com/facebook/pop
   - Spring: https://github.com/MengTo/Spring
   - iOS 8 Spring (tutorial): http://www.appcoda.com/view-animation-in-swift/
+- App Icon Template (PSD): http://appicontemplate.com/ios8
 
 ### Mobile - Android Development
 - Tutorials especially implementing MD on legacy: devices http://www.android4devs.com/search/label/Tutorial
 - SQLite Database tutorial: http://www.androidhive.info/2011/11/android-sqlite-database-tutorial/
+- Launcher Icon Template (PSD): http://appicontemplate.com/android
 
 ### Mobile - React Native Development
 - http://facebook.github.io/react-native/
