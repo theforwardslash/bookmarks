@@ -86,6 +86,7 @@ Forwardslash Bookmarks Collection
 - [AngularJS + Firebase = angularFire](http://www.tamas.io/angularjs-firebase-angularfire/)
 - [Mailchimp Signup with AngularJS](http://onehungrymind.com/build-mailchimp-signup-form-angularjs/)
 - [Landing page with Sign Up Form with AngularJS](http://www.fizerkhan.com/blog/posts/Startup-Landing-Pages-with-Firebase.html)
+- [Learn AngularJS (Codecademy)](http://www.codecademy.com/learn/learn-angularjs)
 
 ###Email/Newsletter
 - [Email Client CSS Support Cheat Sheet](http://templates.mailchimp.com/resources/email-client-css-support/)
