@@ -105,6 +105,17 @@ Forwardslash Bookmarks Collection
 - [Assets Export for iOS, Android, and Windows Phone](https://github.com/geertwille/sketch-export-assets)
 - [Sketch Basics from Treehouse](http://teamtreehouse.com/library/sketch-basics)
 
+###UX Case Studies
+- [How Facebook Did UX Testing with only 60 People?](http://www.fastcolabs.com/3008397/open-company/how-facebook-did-ux-testing-facebook-home-fewer-60-people)
+- [Q&A On Facebook Mobile UX Testing Team](http://www.fastcolabs.com/3007979/open-company/secrets-facebooks-mobile-ux-testing-team)
+
+###Branding Case Studies
+- [Foursquare + Swarm](http://www.designboom.com/design/red-antler-new-foursquare-identity-process-08-07-2014/)
+- [Airbnb Rebranding 2014](http://www.designboom.com/design/airbnb-rebrand-gives-its-community-a-sense-of-belonging-07-16-2014/)
+- [Designing a Brand Identity](https://creativemarket.com/blog/2013/07/23/designing-a-brand-identity)
+- [My.com Branding Story](https://www.behance.net/gallery/10980469/Mycom-Identity)
+- [Brandingserved by Behance](http://www.brandingserved.com/)
+
 ##Resources
 ###Icons - High quality icon set
 - [Ballicons](http://ballicons.net/)
@@ -122,6 +133,13 @@ Forwardslash Bookmarks Collection
 ###Stock Videos
 - [Life of Vids](http://www.lifeofvids.com)
 - [Pexels Videos](https://videos.pexels.com/)
+
+###Doors to Awesomeness (Collective Bookmarks by Others)
+- [Design Circle from CarbonAds](http://carbonads.net/design.php)
+- [Dev/Code Circle from CarbonAds](http://carbonads.net/dev_code.php)
+- [Business Circle from CarbonAds](http://carbonads.net/founders_business.php)
+- [List of Style Guides, Brand Guidelines and Front End Framework](https://medium.com/@iamtec/a-list-of-style-guides-brand-guidelines-and-front-end-frameworks-e5bb62db91e5)
+-
 
 # Contributing
 If you find this list useful and have some additions / corrections, feel free to submit a pull request. :v:
