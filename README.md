@@ -20,6 +20,15 @@ Forwardslash Bookmarks Collection
 - [App Design Served](http://www.appdesignserved.co/)
 - [UI 4 App](http://ui4app.com/)
 
+###Prototyping Tools
+- [Composite](http://www.getcomposite.com/)
+- [Skala Preview](http://bjango.com/mac/skalapreview/)
+- [Flinto](https://www.flinto.com/)
+- [MarvelApp](https://marvelapp.com/)
+- [PopApp](https://popapp.in)
+- [Proto](https://proto.io/)
+- [InvisionApp](http://www.invisionapp.com/)
+
 ###iOS
 - [The iOS Design Guidelines](http://iosdesign.ivomynttinen.com)
 - Spring animations
