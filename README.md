@@ -59,6 +59,7 @@ Forwardslash Bookmarks Collection
 - [(Component) Video](https://github.com/brentvatne/react-native-video)
 
 ###PhoneGap/Ionic
+- [(Tutorial) In-App Purchase] (http://fovea.cc/blog/index.php/3-steps-tutorial-for-phonegap-in-app-purchase-on-ios/)
 - [(Component) Credit Card Scanner] (https://github.com/card-io/card.io-iOS-SDK-PhoneGap)
 
 ##Front-end Development (HTML, CSS & Javascript)
