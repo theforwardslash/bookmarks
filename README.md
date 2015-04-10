@@ -58,6 +58,9 @@ Forwardslash Bookmarks Collection
 - [(Component) SQLite](https://github.com/almost/react-native-sqlite)
 - [(Component) Video](https://github.com/brentvatne/react-native-video)
 
+###PhoneGap/Ionic
+- [(Component) Credit Card Scanner] (https://github.com/card-io/card.io-iOS-SDK-PhoneGap)
+
 ##Front-end Development (HTML, CSS & Javascript)
 
 ###Tools
