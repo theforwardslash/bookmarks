@@ -139,7 +139,6 @@ Forwardslash Bookmarks Collection
 - [Dev/Code Circle from CarbonAds](http://carbonads.net/dev_code.php)
 - [Business Circle from CarbonAds](http://carbonads.net/founders_business.php)
 - [List of Style Guides, Brand Guidelines and Front End Framework](https://medium.com/@iamtec/a-list-of-style-guides-brand-guidelines-and-front-end-frameworks-e5bb62db91e5)
--
 
 # Contributing
 If you find this list useful and have some additions / corrections, feel free to submit a pull request. :v:
