@@ -125,6 +125,9 @@ Forwardslash Bookmarks Collection
 - [Designing a Brand Identity](https://creativemarket.com/blog/2013/07/23/designing-a-brand-identity)
 - [My.com Branding Story](https://www.behance.net/gallery/10980469/Mycom-Identity)
 - [Brandingserved by Behance](http://www.brandingserved.com/)
+ 
+###Typography
+- [Just My Type (font pairing)](http://justmytype.co/)
 
 ##Resources
 ###Icons - High quality icon set
