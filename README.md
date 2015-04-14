@@ -57,6 +57,7 @@ Forwardslash Bookmarks Collection
 - [(Component) FlexBox Playground](https://github.com/glenjamin/ReactNativeFlexboxPlayground)
 - [(Component) SQLite](https://github.com/almost/react-native-sqlite)
 - [(Component) Video](https://github.com/brentvatne/react-native-video)
+- [Getting Started With Facebook’s ReactJS](https://scotch.io/courses/getting-started-with-facebooks-react-js)
 
 ##Front-end Development (HTML, CSS & Javascript)
 
@@ -87,6 +88,7 @@ Forwardslash Bookmarks Collection
 - [Mailchimp Signup with AngularJS](http://onehungrymind.com/build-mailchimp-signup-form-angularjs/)
 - [Landing page with Sign Up Form with AngularJS](http://www.fizerkhan.com/blog/posts/Startup-Landing-Pages-with-Firebase.html)
 - [Learn AngularJS (Codecademy)](http://www.codecademy.com/learn/learn-angularjs)
+- [AngularJS SEO Using Prerender.io](http://www.slideshare.net/Battlefy/seofriendly-single-page-applications-angularjs-prerenderio-by-battlefy-jaime-bueza)
 
 ###Email/Newsletter
 - [Email Client CSS Support Cheat Sheet](http://templates.mailchimp.com/resources/email-client-css-support/)
