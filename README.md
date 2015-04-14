@@ -67,9 +67,8 @@ Forwardslash Bookmarks Collection
 - [(Component) FlexBox Playground](https://github.com/glenjamin/ReactNativeFlexboxPlayground)
 - [(Component) SQLite](https://github.com/almost/react-native-sqlite)
 - [(Component) Video](https://github.com/brentvatne/react-native-video)
-- [Getting Started With Facebook’s ReactJS](https://scotch.io/courses/getting-started-with-facebooks-react-js)
-=======
 - [(Component) Calendar Picker](https://github.com/stephy/CalendarPicker)
+- [Getting Started With Facebook’s ReactJS](https://scotch.io/courses/getting-started-with-facebooks-react-js)
 
 ###PhoneGap/Ionic
 - [(Tutorial) In-App Purchase](http://fovea.cc/blog/index.php/3-steps-tutorial-for-phonegap-in-app-purchase-on-ios/)
