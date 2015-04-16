@@ -37,6 +37,7 @@ Forwardslash Bookmarks Collection
   - [Spring](https://github.com/MengTo/Spring)
   - [iOS 8 Spring (tutorial)](http://www.appcoda.com/view-animation-in-swift/)
 - [App Icon Template (PSD)](http://appicontemplate.com/ios8)
+- [Learn Swift Tutorials](http://www.learnswift.tips/)
 
 ###Android
 - [Tutorials especially implementing MD on legacy: devices](http://www.android4devs.com/search/label/Tutorial)
