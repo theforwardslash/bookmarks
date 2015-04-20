@@ -94,6 +94,10 @@ Forwardslash Bookmarks Collection
 
 ###JavaScript - ReactJS
 - [Do You React?](https://laracasts.com/series/do-you-react)
+- [Learning React.js: Getting Started and Concepts] (https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
+- [Getting To Know Flux, the React.js Architecture] (https://scotch.io/tutorials/getting-to-know-flux-the-react-js-architecture)
+- [Creating A Simple Shopping Cart with React.js and Flux] (https://scotch.io/tutorials/creating-a-simple-shopping-cart-with-react-js-and-flux)
+- [Build A Real-Time Twitter Stream with Node and React.js] (https://scotch.io/tutorials/build-a-real-time-twitter-stream-with-node-and-react-js)
 - [SublimeText Snippets](https://github.com/reactjs/sublime-react)
 
 ###JavaScript - AngularJS
