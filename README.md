@@ -146,9 +146,10 @@ Forwardslash Bookmarks Collection
 - [Retina Icon](http://retinaicon.com/)
 
 ###Stock Photos
-- [Stock Snap](https://stocksnap.io/)
+- [Stock Snap (free)](https://stocksnap.io/)
 - [Life of Pix](http://www.lifeofpix.com/)
-- [Unsplash](https://unsplash.com/)
+- [Unsplash (free)](https://unsplash.com/)
+- [Dollar Photo Club ($1 per photo)](https://unsplash.com/)
 - [Gratisography](http://www.gratisography.com/)
 - [Splitshire](http://www.splitshire.com/)
 
