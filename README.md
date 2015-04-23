@@ -50,6 +50,7 @@ Forwardslash Bookmarks Collection
 - [Introducing React Native: Building Apps with JavaScript](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
 - [First Impressions using React Native](http://jlongster.com/First-Impressions-using-React-Native)
 - [Create Custom ReactNative Components](http://moduscreate.com/react_native_custom_components_ios/)
+- [Video : React Native Fundamentals](https://egghead.io/series/react-native-fundamentals)
 - [(Examples)](https://github.com/iSimar/HackerNews-React-Native)
 - [(Examples) PropertyFinder App](https://github.com/ColinEberhardt/ReactNative-PropertyFinder)
 - [(Examples) Facebook Login](https://github.com/brentvatne/react-native-login)
