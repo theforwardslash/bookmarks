@@ -87,6 +87,7 @@ Forwardslash Bookmarks Collection
 
 ###PhoneGap/Ionic
 - [(Tutorial) In-App Purchase](http://fovea.cc/blog/index.php/3-steps-tutorial-for-phonegap-in-app-purchase-on-ios/)
+- [(Tutorial) Tinder for Music](https://thinkster.io/ionic-framework-tutorial/)
 - [(Component) Credit Card Scanner](https://github.com/card-io/card.io-iOS-SDK-PhoneGap)
 
 ##Front-end Development (HTML, CSS & Javascript)
@@ -150,7 +151,7 @@ Forwardslash Bookmarks Collection
 - [Designing a Brand Identity](https://creativemarket.com/blog/2013/07/23/designing-a-brand-identity)
 - [My.com Branding Story](https://www.behance.net/gallery/10980469/Mycom-Identity)
 - [Brandingserved by Behance](http://www.brandingserved.com/)
- 
+
 ###Typography
 - [Just My Type (font pairing)](http://justmytype.co/)
 
