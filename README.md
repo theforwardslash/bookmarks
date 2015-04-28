@@ -47,6 +47,7 @@ Forwardslash Bookmarks Collection
   - [Facebook POP](https://github.com/facebook/pop)
   - [Spring](https://github.com/MengTo/Spring)
   - [iOS 8 Spring (tutorial)](http://www.appcoda.com/view-animation-in-swift/)
+- [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
 - [App Icon Template (PSD)](http://appicontemplate.com/ios8)
 - [Learn Swift Tutorials](http://www.learnswift.tips/)
 
