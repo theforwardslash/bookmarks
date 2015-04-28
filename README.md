@@ -19,6 +19,17 @@ Forwardslash Bookmarks Collection
 - [Capptivate](http://capptivate.co/)
 - [App Design Served](http://www.appdesignserved.co/)
 - [UI 4 App](http://ui4app.com/)
+- [UIHaus](http://beta.uihaus.com/)
+
+###Prototyping Tools
+- [Composite](http://www.getcomposite.com/)
+- [Skala Preview](http://bjango.com/mac/skalapreview/)
+- [Flinto](https://www.flinto.com/)
+- [MarvelApp](https://marvelapp.com/)
+- [Origami](http://facebook.github.io/origami/)
+- [PopApp](https://popapp.in)
+- [Proto](https://proto.io/)
+- [InvisionApp](http://www.invisionapp.com/)
 
 ###Prototyping Tools
 - [Composite](http://www.getcomposite.com/)
@@ -139,6 +150,9 @@ Forwardslash Bookmarks Collection
 - [My.com Branding Story](https://www.behance.net/gallery/10980469/Mycom-Identity)
 - [Brandingserved by Behance](http://www.brandingserved.com/)
  
+###Typography
+- [Just My Type (font pairing)](http://justmytype.co/)
+
 ###Typography
 - [Just My Type (font pairing)](http://justmytype.co/)
 
