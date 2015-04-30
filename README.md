@@ -82,7 +82,7 @@ Forwardslash Bookmarks Collection
 - [(Component) SQLite](https://github.com/almost/react-native-sqlite)
 - [(Component) Video](https://github.com/brentvatne/react-native-video)
 - [(Component) Calendar Picker](https://github.com/stephy/CalendarPicker)
-- [(Component) AB Testing] (https://github.com/lwansbrough/react-native-ab)
+- [(Component) AB Testing](https://github.com/lwansbrough/react-native-ab)
 
 
 ###PhoneGap/Ionic
@@ -154,9 +154,7 @@ Forwardslash Bookmarks Collection
 
 ###Typography
 - [Just My Type (font pairing)](http://justmytype.co/)
-
-###Typography
-- [Just My Type (font pairing)](http://justmytype.co/)
+- [Typewolf (font recommendations)](http://www.typewolf.com/recommendations)
 
 ##Resources
 ###Icons - High quality icon set
