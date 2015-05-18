@@ -170,6 +170,7 @@ Forwardslash Bookmarks Collection
 - [Dollar Photo Club ($1 per photo)](https://unsplash.com/)
 - [Gratisography](http://www.gratisography.com/)
 - [Splitshire](http://www.splitshire.com/)
+- [Makerbook - The best free stock photos/patterns/mockups/etc] (http://makerbook.net/)
 
 ###Stock Videos
 - [Life of Vids](http://www.lifeofvids.com)
