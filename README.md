@@ -155,6 +155,7 @@ Forwardslash Bookmarks Collection
 ###Typography
 - [Just My Type (font pairing)](http://justmytype.co/)
 - [Typewolf (font recommendations)](http://www.typewolf.com/recommendations)
+- [Free Independent Typefoundry](http://fontfabric.com/)
 
 ##Resources
 ###Icons - High quality icon set
