@@ -31,16 +31,6 @@ Forwardslash Bookmarks Collection
 - [Proto](https://proto.io/)
 - [InvisionApp](http://www.invisionapp.com/)
 
-###Prototyping Tools
-- [Composite](http://www.getcomposite.com/)
-- [Skala Preview](http://bjango.com/mac/skalapreview/)
-- [Flinto](https://www.flinto.com/)
-- [MarvelApp](https://marvelapp.com/)
-- [Origami](http://facebook.github.io/origami/)
-- [PopApp](https://popapp.in)
-- [Proto](https://proto.io/)
-- [InvisionApp](http://www.invisionapp.com/)
-
 ###iOS
 - [The iOS Design Guidelines](http://iosdesign.ivomynttinen.com)
 - Spring animations
