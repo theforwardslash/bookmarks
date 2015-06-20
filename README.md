@@ -167,6 +167,7 @@ Forwardslash Bookmarks Collection
 ###Stock Videos
 - [Life of Vids](http://www.lifeofvids.com)
 - [Pexels Videos](https://videos.pexels.com/)
+- [Coverr - Video for header background](http://www.coverr.co)
 
 ###Doors to Awesomeness (Collective Bookmarks by Others)
 - [Design Circle from CarbonAds](http://carbonads.net/design.php)
