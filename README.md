@@ -115,6 +115,8 @@ Forwardslash Bookmarks Collection
 - [Landing page with Sign Up Form with AngularJS](http://www.fizerkhan.com/blog/posts/Startup-Landing-Pages-with-Firebase.html)
 - [Learn AngularJS (Codecademy)](http://www.codecademy.com/learn/learn-angularjs)
 - [AngularJS SEO Using Prerender.io](http://www.slideshare.net/Battlefy/seofriendly-single-page-applications-angularjs-prerenderio-by-battlefy-jaime-bueza)
+- ![A curated list of angular directives](http://angular-js.in/)
+- ![Wiring Up a Back-end to Your AngularJS App Using Firebase](http://junereycasuga.github.io/blog/2014/06/21/wiring-up-a-back-end-to-your-angularjs-app-using-firebase/)
 
 ###Email/Newsletter
 - [Email Client CSS Support Cheat Sheet](http://templates.mailchimp.com/resources/email-client-css-support/)
