@@ -117,6 +117,7 @@ Forwardslash Bookmarks Collection
 - [AngularJS SEO Using Prerender.io](http://www.slideshare.net/Battlefy/seofriendly-single-page-applications-angularjs-prerenderio-by-battlefy-jaime-bueza)
 - [A curated list of angular directives](http://angular-js.in/)
 - [Wiring Up a Back-end to Your AngularJS App Using Firebase](http://junereycasuga.github.io/blog/2014/06/21/wiring-up-a-back-end-to-your-angularjs-app-using-firebase/)
+- [Material AngularJS](https://material.angularjs.org/latest/#/)
 
 ###Email/Newsletter
 - [Email Client CSS Support Cheat Sheet](http://templates.mailchimp.com/resources/email-client-css-support/)
