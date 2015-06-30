@@ -20,6 +20,7 @@ Forwardslash Bookmarks Collection
 - [App Design Served](http://www.appdesignserved.co/)
 - [UI 4 App](http://ui4app.com/)
 - [UIHaus](http://beta.uihaus.com/)
+- [LAPA - Landing Pages Collection](http://lapa.ninja/)
 
 ###Prototyping Tools
 - [Composite](http://www.getcomposite.com/)
