@@ -21,6 +21,7 @@ Forwardslash Bookmarks Collection
 - [UI 4 App](http://ui4app.com/)
 - [UIHaus](http://beta.uihaus.com/)
 - [LAPA - Landing Pages Collection](http://lapa.ninja/)
+- [CodyHouse](http://codyhouse.co/)
 
 ###Prototyping Tools
 - [Composite](http://www.getcomposite.com/)
