@@ -159,6 +159,9 @@ Forwardslash Bookmarks Collection
 - [Streamline](http://www.streamlineicons.com/)
 - [Retina Icon](http://retinaicon.com/)
 
+### Logos
+- [SVGPorn](http://svgporn.com/)
+
 ###Stock Photos
 - [Stock Snap (free)](https://stocksnap.io/)
 - [Life of Pix](http://www.lifeofpix.com/)
