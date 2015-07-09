@@ -48,6 +48,7 @@ Forwardslash Bookmarks Collection
 - [SQLite Database tutorial](http://www.androidhive.info/2011/11/android-sqlite-database-tutorial/)
 - [Launcher Icon Template (PSD)](http://appicontemplate.com/android)
 - [DPI Calculator for Android](http://jennift.com/dpical.html)
+- [Android device metrics](http://www.google.com/design/tool/devices/)
 
 ###React Native
 - [React Native Main Site](http://facebook.github.io/react-native/)
