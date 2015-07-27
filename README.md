@@ -76,6 +76,7 @@ Forwardslash Bookmarks Collection
 - [(Component) Video](https://github.com/brentvatne/react-native-video)
 - [(Component) Calendar Picker](https://github.com/stephy/CalendarPicker)
 - [(Component) AB Testing](https://github.com/lwansbrough/react-native-ab)
+- [(Component) Parallax] (https://github.com/oblador/react-native-parallax)
 
 
 ###PhoneGap/Ionic
