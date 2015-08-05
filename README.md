@@ -76,7 +76,7 @@ Forwardslash Bookmarks Collection
 - [(Component) Video](https://github.com/brentvatne/react-native-video)
 - [(Component) Calendar Picker](https://github.com/stephy/CalendarPicker)
 - [(Component) AB Testing](https://github.com/lwansbrough/react-native-ab)
-- [(Component) Parallax] (https://github.com/oblador/react-native-parallax)
+- [(Component) Parallax](https://github.com/oblador/react-native-parallax)
 
 
 ###PhoneGap/Ionic
@@ -106,10 +106,10 @@ Forwardslash Bookmarks Collection
 ###JavaScript - ReactJS
 - [Do You React?](https://laracasts.com/series/do-you-react)
 - [Getting Started With Facebook’s ReactJS](https://scotch.io/courses/getting-started-with-facebooks-react-js)
-- [Learning React.js: Getting Started and Concepts] (https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
-- [Getting To Know Flux, the React.js Architecture] (https://scotch.io/tutorials/getting-to-know-flux-the-react-js-architecture)
-- [Creating A Simple Shopping Cart with React.js and Flux] (https://scotch.io/tutorials/creating-a-simple-shopping-cart-with-react-js-and-flux)
-- [Build A Real-Time Twitter Stream with Node and React.js] (https://scotch.io/tutorials/build-a-real-time-twitter-stream-with-node-and-react-js)
+- [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
+- [Getting To Know Flux, the React.js Architecture](https://scotch.io/tutorials/getting-to-know-flux-the-react-js-architecture)
+- [Creating A Simple Shopping Cart with React.js and Flux](https://scotch.io/tutorials/creating-a-simple-shopping-cart-with-react-js-and-flux)
+- [Build A Real-Time Twitter Stream with Node and React.js](https://scotch.io/tutorials/build-a-real-time-twitter-stream-with-node-and-react-js)
 - [SublimeText Snippets](https://github.com/reactjs/sublime-react)
 
 ###JavaScript - AngularJS
@@ -134,6 +134,9 @@ Forwardslash Bookmarks Collection
 ###Responsive Design
 - [David Walsh on Responsive Images](http://davidwalsh.name/responsive-design)
 
+###jQuery Plugins
+- [Unheap - A tidy repository of jQuery plugins](http://www.unheap.com/mobile/)
+
 ##Design
 ###Sketch
 - [Assets Export for iOS, Android, and Windows Phone](https://github.com/geertwille/sketch-export-assets)
@@ -142,7 +145,7 @@ Forwardslash Bookmarks Collection
 ###UX Case Studies
 - [How Facebook Did UX Testing with only 60 People?](http://www.fastcolabs.com/3008397/open-company/how-facebook-did-ux-testing-facebook-home-fewer-60-people)
 - [Q&A On Facebook Mobile UX Testing Team](http://www.fastcolabs.com/3007979/open-company/secrets-facebooks-mobile-ux-testing-team)
-- [User Onboarding] (http://www.useronboard.com/)
+- [User Onboarding](http://www.useronboard.com/)
 
 ###Branding Case Studies
 - [Foursquare + Swarm](http://www.designboom.com/design/red-antler-new-foursquare-identity-process-08-07-2014/)
@@ -173,7 +176,7 @@ Forwardslash Bookmarks Collection
 - [Dollar Photo Club ($1 per photo)](https://unsplash.com/)
 - [Gratisography](http://www.gratisography.com/)
 - [Splitshire](http://www.splitshire.com/)
-- [Makerbook - The best free stock photos/patterns/mockups/etc] (http://makerbook.net/)
+- [Makerbook - The best free stock photos/patterns/mockups/etc](http://makerbook.net/)
 - [Stock Up](http://www.sitebuilderreport.com/stock-up)
 
 ###Stock Videos
