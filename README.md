@@ -22,6 +22,7 @@ Forwardslash Bookmarks Collection
 - [UIHaus](http://beta.uihaus.com/)
 - [LAPA - Landing Pages Collection](http://lapa.ninja/)
 - [CodyHouse](http://codyhouse.co/)
+- [Color Hunt - curated collection of beautiful colors, updated daily](http://colorhunt.co/)
 
 ###Prototyping Tools
 - [Composite](http://www.getcomposite.com/)
