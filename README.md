@@ -50,6 +50,7 @@ Forwardslash Bookmarks Collection
 - [Launcher Icon Template (PSD)](http://appicontemplate.com/android)
 - [DPI Calculator for Android](http://jennift.com/dpical.html)
 - [Android device metrics](http://www.google.com/design/tool/devices/)
+- [Android Dev Portal for Tools, Lib and Apps](https://android-arsenal.com/)
 
 ###React Native
 - [React Native Main Site](http://facebook.github.io/react-native/)
