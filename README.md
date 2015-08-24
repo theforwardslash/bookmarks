@@ -139,6 +139,9 @@ Forwardslash Bookmarks Collection
 ###jQuery Plugins
 - [Unheap - A tidy repository of jQuery plugins](http://www.unheap.com/mobile/)
 
+###JS Libraries
+- [Chartis.js - Simple Responsive Charts](https://gionkunz.github.io/chartist-js/)
+
 ##Design
 ###Sketch
 - [Assets Export for iOS, Android, and Windows Phone](https://github.com/geertwille/sketch-export-assets)
