@@ -85,6 +85,7 @@ Forwardslash Bookmarks Collection
 - [(Tutorial) In-App Purchase](http://fovea.cc/blog/index.php/3-steps-tutorial-for-phonegap-in-app-purchase-on-ios/)
 - [(Tutorial) Tinder for Music](https://thinkster.io/ionic-framework-tutorial/)
 - [(Component) Credit Card Scanner](https://github.com/card-io/card.io-iOS-SDK-PhoneGap)
+- [(Tutorial) Ionic + Rails API](http://www.dovetaildigital.io/blog/2015/8/21/rails-and-ionic-make-love-part-one)
 
 ##Front-end Development (HTML, CSS & Javascript)
 
