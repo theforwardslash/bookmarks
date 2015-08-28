@@ -127,6 +127,7 @@ Forwardslash Bookmarks Collection
 - [A curated list of angular directives](http://angular-js.in/)
 - [Wiring Up a Back-end to Your AngularJS App Using Firebase](http://junereycasuga.github.io/blog/2014/06/21/wiring-up-a-back-end-to-your-angularjs-app-using-firebase/)
 - [Material AngularJS](https://material.angularjs.org/latest/#/)
+- [How to build a MEAN stack application](https://youtu.be/OhPFgqHz68o)
 
 ###Email/Newsletter
 - [Email Client CSS Support Cheat Sheet](http://templates.mailchimp.com/resources/email-client-css-support/)
