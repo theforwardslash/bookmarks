@@ -88,6 +88,7 @@ Forwardslash Bookmarks Collection
 - [(Tutorial) Tinder for Music](https://thinkster.io/ionic-framework-tutorial/)
 - [(Component) Credit Card Scanner](https://github.com/card-io/card.io-iOS-SDK-PhoneGap)
 - [(Tutorial) Ionic + Rails API](http://www.dovetaildigital.io/blog/2015/8/21/rails-and-ionic-make-love-part-one)
+- [(Tutorial) Upload Camera Images To Firebase Using Ionic](https://www.youtube.com/watch?v=uvPlTzZxFcI)
 
 ##Front-end Development (HTML, CSS & Javascript)
 
