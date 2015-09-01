@@ -52,6 +52,7 @@ Forwardslash Bookmarks Collection
 - [Android device metrics](http://www.google.com/design/tool/devices/)
 - [Android Dev Portal for Tools, Lib and Apps](https://android-arsenal.com/)
 - [Mirror your Android device on your Mac or PC with Vysor](http://www.vysor.io/)
+- [Android Design for Developers (Free Course on Material Design)](https://www.udacity.com/course/android-design-for-developers--ud862)
 
 ###React Native
 - [React Native Main Site](http://facebook.github.io/react-native/)
