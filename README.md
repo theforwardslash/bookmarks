@@ -178,6 +178,7 @@ Forwardslash Bookmarks Collection
 - [Ballicons2](http://pixelbuddha.net/ballicons2/)
 - [Streamline](http://www.streamlineicons.com/)
 - [Retina Icon](http://retinaicon.com/)
+- [Free Icons by First Class Designer](http://iconstore.co/)
 
 ### Logos
 - [SVGPorn](http://svgporn.com/)
