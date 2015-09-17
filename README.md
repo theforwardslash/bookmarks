@@ -147,6 +147,7 @@ Forwardslash Bookmarks Collection
 
 ###JS Libraries
 - [Chartis.js - Simple Responsive Charts](https://gionkunz.github.io/chartist-js/)
+- [Retina.js - serve high-resolution images to devices with retina displays](http://imulus.github.io/retinajs/)
 
 ##Design
 ###Sketch
