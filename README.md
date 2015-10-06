@@ -33,6 +33,8 @@ Forwardslash Bookmarks Collection
 - [PopApp](https://popapp.in)
 - [Proto](https://proto.io/)
 - [InvisionApp](http://www.invisionapp.com/)
+- [Principle](http://principleformac.com/) The best!
+- [SketchApp](http://www.sketchapp.com/)
 
 ###iOS
 - [The iOS Design Guidelines](http://iosdesign.ivomynttinen.com)
