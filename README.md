@@ -184,6 +184,7 @@ Forwardslash Bookmarks Collection
 - [Streamline](http://www.streamlineicons.com/)
 - [Retina Icon](http://retinaicon.com/)
 - [Free Icons by First Class Designer](http://iconstore.co/)
+- [FlagKit - Beautiful flag icons for usage in apps and on the web](https://github.com/madebybowtie/FlagKit)
 
 ### Logos
 - [SVGPorn](http://svgporn.com/)
