@@ -198,6 +198,7 @@ Forwardslash Bookmarks Collection
 - [Splitshire](http://www.splitshire.com/)
 - [Makerbook - The best free stock photos/patterns/mockups/etc](http://makerbook.net/)
 - [Stock Up](http://www.sitebuilderreport.com/stock-up)
+- [Stock photos that don’t suck](https://medium.com/@dustin/stock-photos-that-dont-suck-62ae4bcbe01b)
 
 ###Stock Videos
 - [Life of Vids](http://www.lifeofvids.com)
