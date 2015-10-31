@@ -135,6 +135,9 @@ Forwardslash Bookmarks Collection
 - [Material AngularJS](https://material.angularjs.org/latest/#/)
 - [How to build a MEAN stack application](https://youtu.be/OhPFgqHz68o)
 
+###JavaScript - MeteorJS
+- [Your First Meteor Application — a free, online eBook about MeteorJS](http://meteortips.com/first-meteor-tutorial/)
+
 ###Email/Newsletter
 - [Email Client CSS Support Cheat Sheet](http://templates.mailchimp.com/resources/email-client-css-support/)
 - [HTML to Plain Text](http://templates.mailchimp.com/resources/html-to-text/)
