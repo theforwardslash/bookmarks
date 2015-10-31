@@ -134,6 +134,7 @@ Forwardslash Bookmarks Collection
 - [Wiring Up a Back-end to Your AngularJS App Using Firebase](http://junereycasuga.github.io/blog/2014/06/21/wiring-up-a-back-end-to-your-angularjs-app-using-firebase/)
 - [Material AngularJS](https://material.angularjs.org/latest/#/)
 - [How to build a MEAN stack application](https://youtu.be/OhPFgqHz68o)
+- [Angular 2 Fundamentals Screencasts](https://egghead.io/series/angular-2-fundamentals)
 
 ###JavaScript - MeteorJS
 - [Your First Meteor Application — a free, online eBook about MeteorJS](http://meteortips.com/first-meteor-tutorial/)
