@@ -23,6 +23,7 @@ Forwardslash Bookmarks Collection
 - [LAPA - Landing Pages Collection](http://lapa.ninja/)
 - [CodyHouse](http://codyhouse.co/)
 - [Color Hunt - curated collection of beautiful colors, updated daily](http://colorhunt.co/)
+- [LandingFolio - Landing Page inspirations](http://www.landingfolio.com/)
 
 ###Prototyping Tools
 - [Composite](http://www.getcomposite.com/)
