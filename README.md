@@ -46,6 +46,7 @@ Forwardslash Bookmarks Collection
 - [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
 - [App Icon Template (PSD)](http://appicontemplate.com/ios8)
 - [Learn Swift Tutorials](http://www.learnswift.tips/)
+- [List of resources for learning Functional Programming in iOS](https://gist.github.com/JaviLorbada/4a7bd6129275ebefd5a6)
 
 ###Android
 - [Tutorials especially implementing MD on legacy: devices](http://www.android4devs.com/search/label/Tutorial)
