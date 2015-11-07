@@ -102,6 +102,7 @@ Forwardslash Bookmarks Collection
 - [Easing Functions Cheat Sheet](http://easings.net/)
 - [Git Simple Guide 101](http://rogerdudler.github.io/git-guide/)
 - [How to Use Github using Terminal: A Guide](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/)
+- [Drop to GIF - Zero-click animated GIFs](http://mortenjust.github.io/droptogif/)
 
 ###CSS
 - [Getting Started with Less](https://scotch.io/tutorials/getting-started-with-less)
