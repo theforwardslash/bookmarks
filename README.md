@@ -192,6 +192,7 @@ Forwardslash Bookmarks Collection
 - [Retina Icon](http://retinaicon.com/)
 - [Free Icons by First Class Designer](http://iconstore.co/)
 - [FlagKit - Beautiful flag icons for usage in apps and on the web](https://github.com/madebybowtie/FlagKit)
+- [We Love SVG - Font Awesome, Foundation & Glyphicons SVG Webfonts](https://icons8.com/welovesvg)
 
 ### Logos
 - [SVGPorn](http://svgporn.com/)
