@@ -159,6 +159,8 @@ Forwardslash Bookmarks Collection
 - [Retina.js - serve high-resolution images to devices with retina displays](http://imulus.github.io/retinajs/)
 - [localForage - Offline storage using IndexedDB, WebSQL, or localStorage](https://github.com/mozilla/localForage)
 - [Using localForage for Offline Data Storage](http://blog.teamtreehouse.com/using-localforage-offline-data-storage)
+- [NotieJS - A simple notification plugin (alert/growl style) for JS](https://jaredreich.com/projects/notie.js/)
+- [SweetAlert - A beautiful replacement for JS alert box](http://t4t5.github.io/sweetalert/)
 
 ##Design
 ###Sketch
