@@ -195,12 +195,11 @@ Forwardslash Bookmarks Collection
 - [Free Icons by First Class Designer](http://iconstore.co/)
 - [FlagKit - Beautiful flag icons for usage in apps and on the web](https://github.com/madebybowtie/FlagKit)
 - [We Love SVG - Font Awesome, Foundation & Glyphicons SVG Webfonts](https://icons8.com/welovesvg)
-- [Place It - Thousands of FREE mockups](https://placeit.net/)
 
 ### Logos
 - [SVGPorn](http://svgporn.com/)
 
-###Stock Photos
+###Stock Photos & Mockups
 - [Stock Snap (free)](https://stocksnap.io/)
 - [Life of Pix](http://www.lifeofpix.com/)
 - [Unsplash (free)](https://unsplash.com/)
@@ -211,6 +210,7 @@ Forwardslash Bookmarks Collection
 - [Makerbook - The best free stock photos/patterns/mockups/etc](http://makerbook.net/)
 - [Stock Up](http://www.sitebuilderreport.com/stock-up)
 - [Stock photos that don’t suck](https://medium.com/@dustin/stock-photos-that-dont-suck-62ae4bcbe01b)
+- [Place It - Thousands of FREE mockups](https://placeit.net/)
 
 ###Stock Videos
 - [Life of Vids](http://www.lifeofvids.com)
