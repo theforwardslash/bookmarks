@@ -224,6 +224,7 @@ Forwardslash Bookmarks Collection
 - [Business Circle from CarbonAds](http://carbonads.net/founders_business.php)
 - [List of Style Guides, Brand Guidelines and Front End Framework](https://medium.com/@iamtec/a-list-of-style-guides-brand-guidelines-and-front-end-frameworks-e5bb62db91e5)
 - [Firebase Resources - Tutorials, Libraries & Tools](https://github.com/vsergiu/firebase-resources)
+- [Awesome Stock Resources - Bunch of Stock Photos & Videos](https://github.com/neutraltone/awesome-stock-resources)
 
 ###Devices PDF Template
 - [iPhone, iPad, Apple Watch, Android Phone & Web](https://marvelapp.com/static/assets/devices.pdf)
