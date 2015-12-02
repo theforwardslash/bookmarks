@@ -153,6 +153,7 @@ Forwardslash Bookmarks Collection
 
 ###jQuery Plugins
 - [Unheap - A tidy repository of jQuery plugins](http://www.unheap.com/mobile/)
+- [PinchZoomJS - a library providing multi touch gestures for zooming and dragging](https://github.com/manuelstofer/pinchzoom)
 
 ###JS Libraries
 - [Chartis.js - Simple Responsive Charts](https://gionkunz.github.io/chartist-js/)
