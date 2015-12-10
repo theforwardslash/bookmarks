@@ -141,6 +141,7 @@ Forwardslash Bookmarks Collection
 
 ###JavaScript - MeteorJS
 - [Your First Meteor Application — a free, online eBook about MeteorJS](http://meteortips.com/first-meteor-tutorial/)
+- [Meteor Tutorial - free online eBook, pay for PDF version](http://www.meteor-tutorial.org/book)
 
 ###Email/Newsletter
 - [Email Client CSS Support Cheat Sheet](http://templates.mailchimp.com/resources/email-client-css-support/)
