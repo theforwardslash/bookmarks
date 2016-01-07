@@ -235,5 +235,13 @@ Forwardslash Bookmarks Collection
 ###Devices PDF Template
 - [iPhone, iPad, Apple Watch, Android Phone & Web](https://marvelapp.com/static/assets/devices.pdf)
 
+###Learn Git
+- [Git for WordPress - A YouTube playlist of Git basics videos](https://www.youtube.com/playlist?list=PLCXUJZqyv9Jv1wZPCwQbXvCz35nxKcs5O)
+- [Learn Git on the Command Line](https://www.youtube.com/playlist?list=PLyCj4RCToz5DRDx3sJ4iW9i8D2G8OdHYH)
+- [A step-by-step Git course for the complete beginner](http://www.git-tower.com/learn/git/ebook/command-line/introduction)
+- [How to use GitHub and the terminal guide](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/)
+- [Git - the simple guide](http://rogerdudler.github.io/git-guide/)
+- [tryGit - Code School (free)](https://try.github.io/levels/1/challenges/1)
+
 # Contributing
 If you find this list useful and have some additions / corrections, feel free to submit a pull request. :v:
