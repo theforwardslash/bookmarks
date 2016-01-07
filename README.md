@@ -100,8 +100,6 @@ Forwardslash Bookmarks Collection
 ###Tools
 - [Basic Gulp Setup with Livereload](http://rhumaric.com/2014/01/livereload-magic-gulp-style/)
 - [Easing Functions Cheat Sheet](http://easings.net/)
-- [Git Simple Guide 101](http://rogerdudler.github.io/git-guide/)
-- [How to Use Github using Terminal: A Guide](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/)
 - [Drop to GIF - Zero-click animated GIFs](http://mortenjust.github.io/droptogif/)
 
 ###CSS
