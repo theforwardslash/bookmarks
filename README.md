@@ -136,6 +136,7 @@ Forwardslash Bookmarks Collection
 - [Material AngularJS](https://material.angularjs.org/latest/#/)
 - [How to build a MEAN stack application](https://youtu.be/OhPFgqHz68o)
 - [Angular 2 Fundamentals Screencasts](https://egghead.io/series/angular-2-fundamentals)
+- [Rails 4 + AngularJS + JSON Web Token (JWT) Authentication - Create protected API (require user to register/login)](http://www.nikolatodorovic.com/nikolas-blog/rails-4-angularjs-json-web-token-authentication)
 
 ###JavaScript - MeteorJS
 - [Your First Meteor Application — a free, online eBook about MeteorJS](http://meteortips.com/first-meteor-tutorial/)
