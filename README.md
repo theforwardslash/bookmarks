@@ -147,6 +147,7 @@ Forwardslash Bookmarks Collection
 - [HTML to Plain Text](http://templates.mailchimp.com/resources/html-to-text/)
 - [CSS Inliner](http://templates.mailchimp.com/resources/inline-css/)
 - [Email Design Guides](https://www.campaignmonitor.com/guides/)
+- [Building Responsive Email Templates with Foundation for Emails](https://scotch.io/tutorials/building-responsive-email-templates-with-ink)
 
 ###Responsive Design
 - [David Walsh on Responsive Images](http://davidwalsh.name/responsive-design)
