@@ -139,6 +139,8 @@ Forwardslash Bookmarks Collection
 - [Rails 4 + AngularJS + JSON Web Token (JWT) Authentication - Create protected API (require user to register/login)](http://www.nikolatodorovic.com/nikolas-blog/rails-4-angularjs-json-web-token-authentication)
 - [Json Web Tokens (JWT): Introduction](http://angular-tips.com/blog/2014/05/json-web-tokens-introduction/)
 - [Json Web Tokens (JWT): Examples](http://angular-tips.com/blog/2014/05/json-web-tokens-examples/)
+- [Rails API + AngularJS: Token authentication with Tiddle](http://blog.sundaycoding.com/blog/2015/04/04/token-authentication-with-tiddle/)
+- [Rails API Step By Step Tutorial + Authentication](https://labs.kollegorna.se/blog/2015/04/build-an-api-now/)
 
 ###JavaScript - MeteorJS
 - [Your First Meteor Application — a free, online eBook about MeteorJS](http://meteortips.com/first-meteor-tutorial/)
