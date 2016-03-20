@@ -107,7 +107,7 @@ Forwardslash Bookmarks Collection
 - [Getting Started with SASS (with interactive examples)](https://scotch.io/tutorials/getting-started-with-sass)
 - [Building Interactive Scrolling Websites with ScrollMagic.js](https://scotch.io/tutorials/building-interactive-scrolling-websites-with-scrollmagic-js)
 - [Make Material Design Websites with the Materialize CSS Framework](https://scotch.io/tutorials/make-material-design-websites-with-the-materialize-css-framework)
-- [Advanced CSS Selectors you never knew about](https://blog.prototypr.io/16-css-lessons-via-post-it-notes-103d64809e7)
+- [Advanced CSS Selectors you never knew about](http://www.web-crunch.com/advanced-css-selectors-never-knew/)
 
 ###CSS Framework
 - [Understanding ZURB Foundation 5’s Grid System](https://scotch.io/tutorials/understanding-zurb-foundation-5s-grid-system)
