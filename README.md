@@ -94,6 +94,8 @@ Forwardslash Bookmarks Collection
 - [(Component) Credit Card Scanner](https://github.com/card-io/card.io-iOS-SDK-PhoneGap)
 - [(Tutorial) Ionic + Rails API](http://www.dovetaildigital.io/blog/2015/8/21/rails-and-ionic-make-love-part-one)
 - [(Tutorial) Upload Camera Images To Firebase Using Ionic](https://www.youtube.com/watch?v=uvPlTzZxFcI)
+- [Angular 1.x Firebase Module: User Profiles](https://github.com/cliffhall/angular-firebase-user-profiles)
+- [Create a Profile Page with Ionic & Firebase](http://javebratt.com/create-a-profile-page-with-ionic-firebase/)
 
 ##Front-end Development (HTML, CSS & Javascript)
 
