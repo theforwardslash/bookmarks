@@ -144,6 +144,8 @@ Forwardslash Bookmarks Collection
 - [Json Web Tokens (JWT): Examples](http://angular-tips.com/blog/2014/05/json-web-tokens-examples/)
 - [Rails API + AngularJS: Token authentication with Tiddle](http://blog.sundaycoding.com/blog/2015/04/04/token-authentication-with-tiddle/)
 - [Rails API Step By Step Tutorial + Authentication](https://labs.kollegorna.se/blog/2015/04/build-an-api-now/)
+- [List Of Useful AngularJS Resources](http://www.planningforaliens.com/angular/ginormous-unstoppable-angular-resource-list/)
+- [Understanding AngularJS Promises](https://egghead.io/lessons/angularjs-promises)
 
 ###JavaScript - MeteorJS
 - [Your First Meteor Application — a free, online eBook about MeteorJS](http://meteortips.com/first-meteor-tutorial/)
