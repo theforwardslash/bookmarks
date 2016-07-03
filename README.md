@@ -209,6 +209,8 @@ Forwardslash Bookmarks Collection
 - [FlagKit - Beautiful flag icons for usage in apps and on the web](https://github.com/madebybowtie/FlagKit)
 - [We Love SVG - Font Awesome, Foundation & Glyphicons SVG Webfonts](https://icons8.com/welovesvg)
 - [Free Icon Shop](https://freeiconshop.com/)
+- [uiGradients](http://uigradients.com/)
+- [ShadeGradient](http://jxnblk.com/shade/)
 
 ### Logos
 - [SVGPorn](http://svgporn.com/)
