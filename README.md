@@ -24,6 +24,7 @@ Forwardslash Bookmarks Collection
 - [CodyHouse](http://codyhouse.co/)
 - [Color Hunt - curated collection of beautiful colors, updated daily](http://colorhunt.co/)
 - [LandingFolio - Landing Page inspirations](http://www.landingfolio.com/)
+- [Really Good Pricing Pages](http://pricingpages.xyz/)
 
 ###Prototyping Tools
 - [Composite](http://www.getcomposite.com/)
@@ -158,6 +159,7 @@ Forwardslash Bookmarks Collection
 - [CSS Inliner](http://templates.mailchimp.com/resources/inline-css/)
 - [Email Design Guides](https://www.campaignmonitor.com/guides/)
 - [Building Responsive Email Templates with Foundation for Emails](https://scotch.io/tutorials/building-responsive-email-templates-with-ink)
+- [Really Good Emails Newsletter](http://reallygoodemails.com/)
 
 ###Responsive Design
 - [David Walsh on Responsive Images](http://davidwalsh.name/responsive-design)
