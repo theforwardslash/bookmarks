@@ -162,6 +162,8 @@ Forwardslash Bookmarks Collection
 - [Really Good Emails Newsletter](http://reallygoodemails.com/)
 - [CSS Inliner](https://putsmail.com/inliner)
 - [(PAID) HTML Email Templates](http://htmlemail.io/)
+- [Free Email Templates by Litmus Community](https://litmus.com/community/templates)
+- [Salted](https://github.com/rodriguezcommaj/salted)
 
 ###Responsive Design
 - [David Walsh on Responsive Images](http://davidwalsh.name/responsive-design)
