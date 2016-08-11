@@ -160,6 +160,8 @@ Forwardslash Bookmarks Collection
 - [Email Design Guides](https://www.campaignmonitor.com/guides/)
 - [Building Responsive Email Templates with Foundation for Emails](https://scotch.io/tutorials/building-responsive-email-templates-with-ink)
 - [Really Good Emails Newsletter](http://reallygoodemails.com/)
+- [CSS Inliner](https://putsmail.com/inliner)
+- [(PAID) HTML Email Templates](http://htmlemail.io/)
 
 ###Responsive Design
 - [David Walsh on Responsive Images](http://davidwalsh.name/responsive-design)
