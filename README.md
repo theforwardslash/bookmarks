@@ -240,6 +240,7 @@ Forwardslash Bookmarks Collection
 - [Place It for Print - brochure, flyer, poster & etc](https://placeit.net/c/print)
 - [MockupDeals - Premium PSD Mockups](https://www.mockupdeals.com/)
 - [MockupPhoto - Free Stock Mockup Photos](http://photo.mockupdeals.com/)
+- [StockFresh](https://stockfresh.com/)
 
 ###Stock Videos
 - [Life of Vids](http://www.lifeofvids.com)
