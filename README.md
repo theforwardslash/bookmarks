@@ -103,6 +103,7 @@ Forwardslash Bookmarks Collection
 - [Create a Profile Page with Ionic & Firebase](http://javebratt.com/create-a-profile-page-with-ionic-firebase/)
 
 ##Front-end Development (HTML, CSS & Javascript)
+- [Code Guide](http://codeguide.co/)
 
 ###Tools
 - [Basic Gulp Setup with Livereload](http://rhumaric.com/2014/01/livereload-magic-gulp-style/)
