@@ -256,6 +256,7 @@ Forwardslash Bookmarks Collection
 - [Firebase Resources - Tutorials, Libraries & Tools](https://github.com/vsergiu/firebase-resources)
 - [Awesome Stock Resources - Bunch of Stock Photos & Videos](https://github.com/neutraltone/awesome-stock-resources)
 - [Front-End Developer Handbook](http://www.frontendhandbook.com/)
+- [Useful Pens for Everyday Front End Development](http://codepen.io/collection/nMgKxJ/)
 
 ###Devices PDF Template
 - [iPhone, iPad, Apple Watch, Android Phone & Web](https://marvelapp.com/static/assets/devices.pdf)
