@@ -269,6 +269,9 @@ Forwardslash Bookmarks Collection
 - [How to use GitHub and the terminal guide](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/)
 - [Git - the simple guide](http://rogerdudler.github.io/git-guide/)
 - [tryGit - Code School (free)](https://try.github.io/levels/1/challenges/1)
+- [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
+- [FirstAidGit](http://firstaidgit.io/#/)
+- [Oh shit, git!](http://ohshitgit.com/)
 
 # Contributing
 If you find this list useful and have some additions / corrections, feel free to submit a pull request. :v:
