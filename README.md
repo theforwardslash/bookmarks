@@ -26,6 +26,8 @@ Forwardslash Bookmarks Collection
 - [LandingFolio - Landing Page inspirations](http://www.landingfolio.com/)
 - [Really Good Pricing Pages](http://pricingpages.xyz/)
 - [GoodUI](http://goodui.org/)
+- [CollectUI](http://collectui.com/)
+- [Land-book](http://land-book.com/)
 
 ###Prototyping Tools
 - [Composite](http://www.getcomposite.com/)
