@@ -40,6 +40,7 @@ Forwardslash Bookmarks Collection
 - [InvisionApp](http://www.invisionapp.com/)
 - [Principle](http://principleformac.com/) The best!
 - [SketchApp](http://www.sketchapp.com/)
+- [Figma](https://www.figma.com/) The first interface design tool with real-time collaboration.
 
 ###Other Tools
 - [App Screenshot Builder](http://theapplaunchpad.com/)
@@ -154,6 +155,7 @@ Forwardslash Bookmarks Collection
 - [Rails API Step By Step Tutorial + Authentication](https://labs.kollegorna.se/blog/2015/04/build-an-api-now/)
 - [List Of Useful AngularJS Resources](http://www.planningforaliens.com/angular/ginormous-unstoppable-angular-resource-list/)
 - [Understanding AngularJS Promises](https://egghead.io/lessons/angularjs-promises)
+- [Angular Style Guide by John Papa](https://github.com/johnpapa/angular-styleguide)
 
 ###JavaScript - MeteorJS
 - [Your First Meteor Application — a free, online eBook about MeteorJS](http://meteortips.com/first-meteor-tutorial/)
@@ -187,6 +189,7 @@ Forwardslash Bookmarks Collection
 - [Using localForage for Offline Data Storage](http://blog.teamtreehouse.com/using-localforage-offline-data-storage)
 - [NotieJS - A simple notification plugin (alert/growl style) for JS](https://jaredreich.com/projects/notie.js/)
 - [SweetAlert - A beautiful replacement for JS alert box](http://t4t5.github.io/sweetalert/)
+- [Highcharts - JavaScript Library for your chart](http://www.highcharts.com/)
 
 ##Design
 ###Sketch
@@ -211,6 +214,7 @@ Forwardslash Bookmarks Collection
 - [Just My Type (font pairing)](http://justmytype.co/)
 - [Typewolf (font recommendations)](http://www.typewolf.com/recommendations)
 - [Free Independent Typefoundry](http://fontfabric.com/)
+- [Font Pair](http://fontpair.co/)
 
 ##Resources
 ###Icons - High quality icon set
