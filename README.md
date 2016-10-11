@@ -249,6 +249,7 @@ Forwardslash Bookmarks Collection
 - [MockupDeals - Premium PSD Mockups](https://www.mockupdeals.com/)
 - [MockupPhoto - Free Stock Mockup Photos](http://photo.mockupdeals.com/)
 - [StockFresh](https://stockfresh.com/)
+- [Hero Patterns - collection of repeatable SVG background patterns](http://www.heropatterns.com/)
 
 ###Stock Videos
 - [Life of Vids](http://www.lifeofvids.com)
