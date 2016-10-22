@@ -228,6 +228,7 @@ Forwardslash Bookmarks Collection
 - [Free Icon Shop](https://freeiconshop.com/)
 - [uiGradients](http://uigradients.com/)
 - [ShadeGradient](http://jxnblk.com/shade/)
+- [Iconscout - An Icon Dictionary](https://iconscout.com/)
 
 ### Logos
 - [SVGPorn](http://svgporn.com/)
