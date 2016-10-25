@@ -120,13 +120,17 @@ Forwardslash Bookmarks Collection
 - [Building Interactive Scrolling Websites with ScrollMagic.js](https://scotch.io/tutorials/building-interactive-scrolling-websites-with-scrollmagic-js)
 - [Make Material Design Websites with the Materialize CSS Framework](https://scotch.io/tutorials/make-material-design-websites-with-the-materialize-css-framework)
 - [Advanced CSS Selectors you never knew about](http://www.web-crunch.com/advanced-css-selectors-never-knew/)
+- [BEM - Block Element Modifier](http://getbem.com)
+- [BEM 101](https://css-tricks.com/bem-101)
 
 ###CSS Framework
 - [Understanding ZURB Foundation 5’s Grid System](https://scotch.io/tutorials/understanding-zurb-foundation-5s-grid-system)
 - [Bootstrap 3 Tips and Tricks You Might Not Know](https://scotch.io/bar-talk/bootstrap-3-tips-and-tricks-you-might-not-know)
 - [Understanding the Bootstrap 3 Grid System](https://scotch.io/tutorials/understanding-the-bootstrap-3-grid-system)
 - [What is inuit.css?](http://csswizardry.com/2011/06/what-is-inuit-css)
+- [inuit.css Kitchen Sink](http://terabytenz.github.io/inuit.css-kitchensink)
 - [Skeleton - A dead simple, responsive boilerplate](http://getskeleton.com)
+- [Material Design Lite](https://getmdl.io)
 
 ###JavaScript - ReactJS
 - [Do You React?](https://laracasts.com/series/do-you-react)
@@ -193,6 +197,7 @@ Forwardslash Bookmarks Collection
 - [NotieJS - A simple notification plugin (alert/growl style) for JS](https://jaredreich.com/projects/notie.js/)
 - [SweetAlert - A beautiful replacement for JS alert box](http://t4t5.github.io/sweetalert/)
 - [Highcharts - JavaScript Library for your chart](http://www.highcharts.com/)
+- [uilang - A minimal, UI-focused programming language](http://uilang.com)
 
 ##Design
 ###Sketch
@@ -218,6 +223,7 @@ Forwardslash Bookmarks Collection
 - [Typewolf (font recommendations)](http://www.typewolf.com/recommendations)
 - [Free Independent Typefoundry](http://fontfabric.com/)
 - [Font Pair](http://fontpair.co/)
+- [Interactive Guide to Blog Typography](http://www.kaikkonendesign.fi/typography)
 
 ##Resources
 ###Icons - High quality icon set
@@ -254,6 +260,7 @@ Forwardslash Bookmarks Collection
 - [MockupPhoto - Free Stock Mockup Photos](http://photo.mockupdeals.com/)
 - [StockFresh](https://stockfresh.com/)
 - [Hero Patterns - collection of repeatable SVG background patterns](http://www.heropatterns.com/)
+- [Pexels (free)](https://www.pexels.com)
 
 ###Stock Videos
 - [Life of Vids](http://www.lifeofvids.com)
