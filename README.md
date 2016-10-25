@@ -3,6 +3,7 @@ Forwardslash Bookmarks Collection
 
 ##Mobile Apps Development
 ###Design Guidelines
+- [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines)
 - [The iOS Design Guidelines](http://iosdesign.ivomynttinen.com)
 - [Google Material Design Guidelines](http://www.google.com/design/spec/material-design/introduction.html)
 - [Windows Phone 8 Design Guidelines](https://dev.windows.com/en-us/design/modern-design)
@@ -124,6 +125,8 @@ Forwardslash Bookmarks Collection
 - [Understanding ZURB Foundation 5’s Grid System](https://scotch.io/tutorials/understanding-zurb-foundation-5s-grid-system)
 - [Bootstrap 3 Tips and Tricks You Might Not Know](https://scotch.io/bar-talk/bootstrap-3-tips-and-tricks-you-might-not-know)
 - [Understanding the Bootstrap 3 Grid System](https://scotch.io/tutorials/understanding-the-bootstrap-3-grid-system)
+- [What is inuit.css?](http://csswizardry.com/2011/06/what-is-inuit-css)
+- [Skeleton - A dead simple, responsive boilerplate](http://getskeleton.com)
 
 ###JavaScript - ReactJS
 - [Do You React?](https://laracasts.com/series/do-you-react)
