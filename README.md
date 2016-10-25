@@ -254,6 +254,7 @@ Forwardslash Bookmarks Collection
 - [MockupPhoto - Free Stock Mockup Photos](http://photo.mockupdeals.com/)
 - [StockFresh](https://stockfresh.com/)
 - [Hero Patterns - collection of repeatable SVG background patterns](http://www.heropatterns.com/)
+- [200 Devices & Mockups For Sketch](https://designcode.io/angle)
 
 ###Stock Videos
 - [Life of Vids](http://www.lifeofvids.com)
