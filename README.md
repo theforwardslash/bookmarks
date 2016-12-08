@@ -180,6 +180,7 @@ Forwardslash Bookmarks Collection
 - [(PAID) HTML Email Templates](http://htmlemail.io/)
 - [Free Email Templates by Litmus Community](https://litmus.com/community/templates)
 - [Salted](https://github.com/rodriguezcommaj/salted)
+- [Simple & Beautiful Landing Page Builder with Opt-in Forms](http://launchaco.com/build/)
 
 ###Responsive Design
 - [David Walsh on Responsive Images](http://davidwalsh.name/responsive-design)
