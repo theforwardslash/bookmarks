@@ -114,6 +114,7 @@ Forwardslash Bookmarks Collection
 - [Basic Gulp Setup with Livereload](http://rhumaric.com/2014/01/livereload-magic-gulp-style/)
 - [Easing Functions Cheat Sheet](http://easings.net/)
 - [Drop to GIF - Zero-click animated GIFs](http://mortenjust.github.io/droptogif/)
+- [MegaTags - complete social media meta tag generator](https://megatags.co/)
 
 ###CSS
 - [Getting Started with Less](https://scotch.io/tutorials/getting-started-with-less)
