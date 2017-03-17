@@ -124,6 +124,7 @@ Forwardslash Bookmarks Collection
 - [Advanced CSS Selectors you never knew about](http://www.web-crunch.com/advanced-css-selectors-never-knew/)
 - [BEM - Block Element Modifier](http://getbem.com)
 - [BEM 101](https://css-tricks.com/bem-101)
+- [Animista - Online CSS3 Effects & Animations Generator](http://animista.net/)
 
 ###CSS Framework
 - [Understanding ZURB Foundation 5’s Grid System](https://scotch.io/tutorials/understanding-zurb-foundation-5s-grid-system)
