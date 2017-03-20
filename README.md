@@ -29,6 +29,7 @@ Forwardslash Bookmarks Collection
 - [GoodUI](http://goodui.org/)
 - [CollectUI](http://collectui.com/)
 - [Land-book](http://land-book.com/)
+- [One Page Love](https://onepagelove.com/)
 - [NicelyDone](http://nicelydone.club/)
 
 ###Prototyping Tools
