@@ -1,15 +1,15 @@
 Forwardslash Bookmarks Collection
 =======================================
 
-##Mobile Apps Development
+## Mobile Apps Development
 
-###Design Guidelines
+### Design Guidelines
 - [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines)
 - [The iOS Design Guidelines](http://iosdesign.ivomynttinen.com)
 - [Google Material Design Guidelines](http://www.google.com/design/spec/material-design/introduction.html)
 - [Windows Phone 8 Design Guidelines](https://dev.windows.com/en-us/design/modern-design)
 
-###Inspirations (UI/UX)
+### Inspirations (UI/UX)
 - [Android App Patterns](http://www.android-app-patterns.com/)
 - [Android Niceties](http://androidniceties.tumblr.com/)
 - [Android Inspired UI](http://android.inspired-ui.com/)
@@ -33,7 +33,7 @@ Forwardslash Bookmarks Collection
 - [One Page Love](https://onepagelove.com/)
 - [NicelyDone](http://nicelydone.club/)
 
-###Prototyping Tools
+### Prototyping Tools
 - [Composite](http://www.getcomposite.com/)
 - [Skala Preview](http://bjango.com/mac/skalapreview/)
 - [Flinto](https://www.flinto.com/)
@@ -46,10 +46,10 @@ Forwardslash Bookmarks Collection
 - [SketchApp](http://www.sketchapp.com/)
 - [Figma](https://www.figma.com/) The first interface design tool with real-time collaboration.
 
-###Other Tools
+### Other Tools
 - [App Screenshot Builder](http://theapplaunchpad.com/)
 
-###iOS
+### iOS
 - [The iOS Design Guidelines](http://iosdesign.ivomynttinen.com)
 - Spring animations
   - [Facebook POP](https://github.com/facebook/pop)
@@ -60,7 +60,7 @@ Forwardslash Bookmarks Collection
 - [Learn Swift Tutorials](http://www.learnswift.tips/)
 - [List of resources for learning Functional Programming in iOS](https://gist.github.com/JaviLorbada/4a7bd6129275ebefd5a6)
 
-###Android
+### Android
 - [Tutorials especially implementing MD on legacy: devices](http://www.android4devs.com/search/label/Tutorial)
 - [SQLite Database tutorial](http://www.androidhive.info/2011/11/android-sqlite-database-tutorial/)
 - [Launcher Icon Template (PSD)](http://appicontemplate.com/android)
@@ -71,7 +71,7 @@ Forwardslash Bookmarks Collection
 - [Android Design for Developers (Free Course on Material Design)](https://www.udacity.com/course/android-design-for-developers--ud862)
 - [Android Assets Studio - App Icon Generator](https://romannurik.github.io/AndroidAssetStudio/)
 
-###React Native
+### React Native
 - [React Native Main Site](http://facebook.github.io/react-native/)
 - [Introducing React Native: Building Apps with JavaScript](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
 - [First Impressions using React Native](http://jlongster.com/First-Impressions-using-React-Native)
@@ -100,7 +100,7 @@ Forwardslash Bookmarks Collection
 - [(Component) Parallax](https://github.com/oblador/react-native-parallax)
 
 
-###PhoneGap/Ionic
+### PhoneGap/Ionic
 - [(Tutorial) In-App Purchase](http://fovea.cc/blog/index.php/3-steps-tutorial-for-phonegap-in-app-purchase-on-ios/)
 - [(Tutorial) Tinder for Music](https://thinkster.io/ionic-framework-tutorial/)
 - [(Component) Credit Card Scanner](https://github.com/card-io/card.io-iOS-SDK-PhoneGap)
@@ -109,16 +109,16 @@ Forwardslash Bookmarks Collection
 - [Angular 1.x Firebase Module: User Profiles](https://github.com/cliffhall/angular-firebase-user-profiles)
 - [Create a Profile Page with Ionic & Firebase](http://javebratt.com/create-a-profile-page-with-ionic-firebase/)
 
-##Front-end Development (HTML, CSS & Javascript)
+## Front-end Development (HTML, CSS & Javascript)
 - [Code Guide](http://codeguide.co/)
 
-###Tools
+### Tools
 - [Basic Gulp Setup with Livereload](http://rhumaric.com/2014/01/livereload-magic-gulp-style/)
 - [Easing Functions Cheat Sheet](http://easings.net/)
 - [Drop to GIF - Zero-click animated GIFs](http://mortenjust.github.io/droptogif/)
 - [MegaTags - complete social media meta tag generator](https://megatags.co/)
 
-###CSS
+### CSS
 - [Getting Started with Less](https://scotch.io/tutorials/getting-started-with-less)
 - [Getting Started with SASS (with interactive examples)](https://scotch.io/tutorials/getting-started-with-sass)
 - [Building Interactive Scrolling Websites with ScrollMagic.js](https://scotch.io/tutorials/building-interactive-scrolling-websites-with-scrollmagic-js)
@@ -128,7 +128,7 @@ Forwardslash Bookmarks Collection
 - [BEM 101](https://css-tricks.com/bem-101)
 - [Animista - Online CSS3 Effects & Animations Generator](http://animista.net/)
 
-###CSS Framework
+### CSS Framework
 - [Understanding ZURB Foundation 5’s Grid System](https://scotch.io/tutorials/understanding-zurb-foundation-5s-grid-system)
 - [Bootstrap 3 Tips and Tricks You Might Not Know](https://scotch.io/bar-talk/bootstrap-3-tips-and-tricks-you-might-not-know)
 - [Understanding the Bootstrap 3 Grid System](https://scotch.io/tutorials/understanding-the-bootstrap-3-grid-system)
@@ -137,7 +137,7 @@ Forwardslash Bookmarks Collection
 - [Skeleton - A dead simple, responsive boilerplate](http://getskeleton.com)
 - [Material Design Lite](https://getmdl.io)
 
-###JavaScript - ReactJS
+### JavaScript - ReactJS
 - [Do You React?](https://laracasts.com/series/do-you-react)
 - [Getting Started With Facebook’s ReactJS](https://scotch.io/courses/getting-started-with-facebooks-react-js)
 - [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
@@ -146,7 +146,7 @@ Forwardslash Bookmarks Collection
 - [Build A Real-Time Twitter Stream with Node and React.js](https://scotch.io/tutorials/build-a-real-time-twitter-stream-with-node-and-react-js)
 - [SublimeText Snippets](https://github.com/reactjs/sublime-react)
 
-###JavaScript - AngularJS
+### JavaScript - AngularJS
 - [Shaping Up with AngularJS](http://campus.codeschool.com/courses/shaping-up-with-angular-js/)
 - [Clone TaskRabbit using AngularJS](https://code4startup.com/projects/ninja-learn-angularjs-firebase-by-cloning-udemy)
 - [Login Function with AngularJS + Firebase](http://devsidestories.blogspot.com/2014/04/implementing-login-with-firebase-and.html)
@@ -169,12 +169,12 @@ Forwardslash Bookmarks Collection
 - [Understanding AngularJS Promises](https://egghead.io/lessons/angularjs-promises)
 - [Angular Style Guide by John Papa](https://github.com/johnpapa/angular-styleguide)
 
-###JavaScript - MeteorJS
+### JavaScript - MeteorJS
 - [Your First Meteor Application — a free, online eBook about MeteorJS](http://meteortips.com/first-meteor-tutorial/)
 - [Meteor Tutorial - free online eBook, pay for PDF version](http://www.meteor-tutorial.org/book)
 - [The Meteor Chef - Lots of MeteorJS Tutorials](https://themeteorchef.com/recipes/)
 
-###Email/Newsletter
+### Email/Newsletter
 - [Email Client CSS Support Cheat Sheet](http://templates.mailchimp.com/resources/email-client-css-support/)
 - [HTML to Plain Text](http://templates.mailchimp.com/resources/html-to-text/)
 - [CSS Inliner](http://templates.mailchimp.com/resources/inline-css/)
@@ -187,15 +187,15 @@ Forwardslash Bookmarks Collection
 - [Salted](https://github.com/rodriguezcommaj/salted)
 - [Simple & Beautiful Landing Page Builder with Opt-in Forms](http://launchaco.com/build/)
 
-###Responsive Design
+### Responsive Design
 - [David Walsh on Responsive Images](http://davidwalsh.name/responsive-design)
 
-###jQuery Plugins
+### jQuery Plugins
 - [Unheap - A tidy repository of jQuery plugins](http://www.unheap.com/mobile/)
 - [PinchZoomJS - a library providing multi touch gestures for zooming and dragging](https://github.com/manuelstofer/pinchzoom)
 - [jQuery Cards - A repository of over 1000 quality jQuery plugins](http://jquerycards.com/)
 
-###JS Libraries
+### JS Libraries
 - [Chartis.js - Simple Responsive Charts](https://gionkunz.github.io/chartist-js/)
 - [Retina.js - serve high-resolution images to devices with retina displays](http://imulus.github.io/retinajs/)
 - [localForage - Offline storage using IndexedDB, WebSQL, or localStorage](https://github.com/mozilla/localForage)
@@ -205,36 +205,36 @@ Forwardslash Bookmarks Collection
 - [Highcharts - JavaScript Library for your chart](http://www.highcharts.com/)
 - [uilang - A minimal, UI-focused programming language](http://uilang.com)
 
-##Design
+## Design
 
-###Sketch
+### Sketch
 - [Assets Export for iOS, Android, and Windows Phone](https://github.com/geertwille/sketch-export-assets)
 - [Sketch Basics from Treehouse](http://teamtreehouse.com/library/sketch-basics)
 - [Sketch App Sources](http://www.sketchappsources.com/)
 
-###UX Case Studies
+### UX Case Studies
 - [How Facebook Did UX Testing with only 60 People?](http://www.fastcolabs.com/3008397/open-company/how-facebook-did-ux-testing-facebook-home-fewer-60-people)
 - [Q&A On Facebook Mobile UX Testing Team](http://www.fastcolabs.com/3007979/open-company/secrets-facebooks-mobile-ux-testing-team)
 - [User Onboarding](http://www.useronboard.com/)
 - [Copywriting UX by Mailchimp](http://voiceandtone.com/)
 
-###Branding Case Studies
+### Branding Case Studies
 - [Foursquare + Swarm](http://www.designboom.com/design/red-antler-new-foursquare-identity-process-08-07-2014/)
 - [Airbnb Rebranding 2014](http://www.designboom.com/design/airbnb-rebrand-gives-its-community-a-sense-of-belonging-07-16-2014/)
 - [Designing a Brand Identity](https://creativemarket.com/blog/2013/07/23/designing-a-brand-identity)
 - [My.com Branding Story](https://www.behance.net/gallery/10980469/Mycom-Identity)
 - [Brandingserved by Behance](http://www.brandingserved.com/)
 
-###Typography
+### Typography
 - [Just My Type (font pairing)](http://justmytype.co/)
 - [Typewolf (font recommendations)](http://www.typewolf.com/recommendations)
 - [Free Independent Typefoundry](http://fontfabric.com/)
 - [Font Pair](http://fontpair.co/)
 - [Interactive Guide to Blog Typography](http://www.kaikkonendesign.fi/typography)
 
-##Resources
+## Resources
 
-###Icons - High quality icon set
+### Icons - High quality icon set
 - [Ballicons](http://ballicons.net/)
 - [Ballicons2](http://pixelbuddha.net/ballicons2/)
 - [Streamline](http://www.streamlineicons.com/)
@@ -250,7 +250,7 @@ Forwardslash Bookmarks Collection
 ### Logos
 - [SVGPorn](http://svgporn.com/)
 
-###Stock Photos & Mockups
+### Stock Photos & Mockups
 - [Stock Snap (free)](https://stocksnap.io/)
 - [Life of Pix](http://www.lifeofpix.com/)
 - [Unsplash (free)](https://unsplash.com/)
@@ -272,12 +272,12 @@ Forwardslash Bookmarks Collection
 - [Pexels (free)](https://www.pexels.com)
 - [Free Stock Photos from Shopify](https://burst.shopify.com/)
 
-###Stock Videos
+### Stock Videos
 - [Life of Vids](http://www.lifeofvids.com)
 - [Pexels Videos](https://videos.pexels.com/)
 - [Coverr - Video for header background](http://www.coverr.co)
 
-###Doors to Awesomeness (Collective Bookmarks by Others)
+### Doors to Awesomeness (Collective Bookmarks by Others)
 - [Design Circle from CarbonAds](http://carbonads.net/design.php)
 - [Dev/Code Circle from CarbonAds](http://carbonads.net/dev_code.php)
 - [Business Circle from CarbonAds](http://carbonads.net/founders_business.php)
@@ -287,10 +287,10 @@ Forwardslash Bookmarks Collection
 - [Front-End Developer Handbook](http://www.frontendhandbook.com/)
 - [Useful Pens for Everyday Front End Development](http://codepen.io/collection/nMgKxJ/)
 
-###Devices PDF Template
+### Devices PDF Template
 - [iPhone, iPad, Apple Watch, Android Phone & Web](https://marvelapp.com/static/assets/devices.pdf)
 
-###Learn Git
+### Learn Git
 - [Git for WordPress - A YouTube playlist of Git basics videos](https://www.youtube.com/playlist?list=PLCXUJZqyv9Jv1wZPCwQbXvCz35nxKcs5O)
 - [Learn Git on the Command Line](https://www.youtube.com/playlist?list=PLyCj4RCToz5DRDx3sJ4iW9i8D2G8OdHYH)
 - [A step-by-step Git course for the complete beginner](http://www.git-tower.com/learn/git/ebook/command-line/introduction)
