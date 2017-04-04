@@ -267,6 +267,7 @@ Forwardslash Bookmarks Collection
 - [Hero Patterns - collection of repeatable SVG background patterns](http://www.heropatterns.com/)
 - [200 Devices & Mockups For Sketch](https://designcode.io/angle)
 - [Pexels (free)](https://www.pexels.com)
+- [Free Stock Photos from Shopify](https://burst.shopify.com/)
 
 ###Stock Videos
 - [Life of Vids](http://www.lifeofvids.com)
