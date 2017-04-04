@@ -2,6 +2,7 @@ Forwardslash Bookmarks Collection
 =======================================
 
 ##Mobile Apps Development
+
 ###Design Guidelines
 - [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines)
 - [The iOS Design Guidelines](http://iosdesign.ivomynttinen.com)
@@ -205,6 +206,7 @@ Forwardslash Bookmarks Collection
 - [uilang - A minimal, UI-focused programming language](http://uilang.com)
 
 ##Design
+
 ###Sketch
 - [Assets Export for iOS, Android, and Windows Phone](https://github.com/geertwille/sketch-export-assets)
 - [Sketch Basics from Treehouse](http://teamtreehouse.com/library/sketch-basics)
@@ -231,6 +233,7 @@ Forwardslash Bookmarks Collection
 - [Interactive Guide to Blog Typography](http://www.kaikkonendesign.fi/typography)
 
 ##Resources
+
 ###Icons - High quality icon set
 - [Ballicons](http://ballicons.net/)
 - [Ballicons2](http://pixelbuddha.net/ballicons2/)
