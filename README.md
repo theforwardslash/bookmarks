@@ -24,7 +24,6 @@ Forwardslash Bookmarks Collection
 - [UIHaus](http://beta.uihaus.com/)
 - [LAPA - Landing Pages Collection](http://lapa.ninja/)
 - [CodyHouse](http://codyhouse.co/)
-- [Color Hunt - curated collection of beautiful colors, updated daily](http://colorhunt.co/)
 - [LandingFolio - Landing Page inspirations](http://www.landingfolio.com/)
 - [Really Good Pricing Pages](http://pricingpages.xyz/)
 - [GoodUI](http://goodui.org/)
@@ -117,6 +116,7 @@ Forwardslash Bookmarks Collection
 - [Easing Functions Cheat Sheet](http://easings.net/)
 - [Drop to GIF - Zero-click animated GIFs](http://mortenjust.github.io/droptogif/)
 - [MegaTags - complete social media meta tag generator](https://megatags.co/)
+- [Toolkits.io - geeks tool resources ](http://toolkits.io/)
 
 ### CSS
 - [Getting Started with Less](https://scotch.io/tutorials/getting-started-with-less)
@@ -231,6 +231,7 @@ Forwardslash Bookmarks Collection
 - [Free Independent Typefoundry](http://fontfabric.com/)
 - [Font Pair](http://fontpair.co/)
 - [Interactive Guide to Blog Typography](http://www.kaikkonendesign.fi/typography)
+- [Google Fonts](http://fonts.google.com)
 
 ## Resources
 
@@ -243,9 +244,15 @@ Forwardslash Bookmarks Collection
 - [FlagKit - Beautiful flag icons for usage in apps and on the web](https://github.com/madebybowtie/FlagKit)
 - [We Love SVG - Font Awesome, Foundation & Glyphicons SVG Webfonts](https://icons8.com/welovesvg)
 - [Free Icon Shop](https://freeiconshop.com/)
+- [Iconscout - An Icon Dictionary](https://iconscout.com/)
+
+### Colors
 - [uiGradients](http://uigradients.com/)
 - [ShadeGradient](http://jxnblk.com/shade/)
-- [Iconscout - An Icon Dictionary](https://iconscout.com/)
+- [Color Hunt - curated collection of beautiful colors, updated daily](http://colorhunt.co/)
+- [Adobe Color CC - create, explore and share!](https://color.adobe.com)
+- [Color Scheme Example](https://digitalsynopsis.com/design/beautiful-color-combinations-schemes-palettes/)
+- [Color Claim, combination of colors](http://www.vanschneider.com/colors/)
 
 ### Logos
 - [SVGPorn](http://svgporn.com/)
