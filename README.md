@@ -278,6 +278,7 @@ Forwardslash Bookmarks Collection
 - [200 Devices & Mockups For Sketch](https://designcode.io/angle)
 - [Pexels (free)](https://www.pexels.com)
 - [Free Stock Photos from Shopify](https://burst.shopify.com/)
+- [EveryPixel - Find and compare stock photo price from many sites](https://everypixel.com/)
 
 ### Stock Videos
 - [Life of Vids](http://www.lifeofvids.com)
