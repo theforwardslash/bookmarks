@@ -186,6 +186,7 @@ Forwardslash Bookmarks Collection
 - [Free Email Templates by Litmus Community](https://litmus.com/community/templates)
 - [Salted](https://github.com/rodriguezcommaj/salted)
 - [Simple & Beautiful Landing Page Builder with Opt-in Forms](http://launchaco.com/build/)
+- [Topol - Online Free Email Editor/Designer](https://topol.io/)
 
 ### Responsive Design
 - [David Walsh on Responsive Images](http://davidwalsh.name/responsive-design)
