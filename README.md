@@ -246,6 +246,7 @@ Forwardslash Bookmarks Collection
 - [We Love SVG - Font Awesome, Foundation & Glyphicons SVG Webfonts](https://icons8.com/welovesvg)
 - [Free Icon Shop](https://freeiconshop.com/)
 - [Iconscout - An Icon Dictionary](https://iconscout.com/)
+- [Titanic - animated icons + code](https://github.com/icons8/titanic)
 
 ### Colors
 - [uiGradients](http://uigradients.com/)
