@@ -44,6 +44,7 @@ Forwardslash Bookmarks Collection
 - [Principle](http://principleformac.com/) The best!
 - [SketchApp](http://www.sketchapp.com/)
 - [Figma](https://www.figma.com/) The first interface design tool with real-time collaboration.
+- [FramerCasts - Learn Framer by watching videos](https://www.framercasts.com/)
 
 ### Other Tools
 - [App Screenshot Builder](http://theapplaunchpad.com/)
