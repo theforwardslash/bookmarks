@@ -257,6 +257,7 @@ Forwardslash Bookmarks Collection
 - [Color Scheme Example](https://digitalsynopsis.com/design/beautiful-color-combinations-schemes-palettes/)
 - [Color Claim, combination of colors](http://www.vanschneider.com/colors/)
 - [CoolHue](https://webkul.github.io/coolhue/)
+- [Coolors](https://coolors.co/)
 
 ### Logos
 - [SVGPorn](http://svgporn.com/)
