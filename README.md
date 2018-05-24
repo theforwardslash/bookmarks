@@ -118,6 +118,7 @@ Forwardslash Bookmarks Collection
 - [Drop to GIF - Zero-click animated GIFs](http://mortenjust.github.io/droptogif/)
 - [MegaTags - complete social media meta tag generator](https://megatags.co/)
 - [Toolkits.io - geeks tool resources ](http://toolkits.io/)
+- [Cool Backgrounds - background generator for hero area](https://coolbackgrounds.io/)
 
 ### CSS
 - [Getting Started with Less](https://scotch.io/tutorials/getting-started-with-less)
