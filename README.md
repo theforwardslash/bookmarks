@@ -1,4 +1,4 @@
-Forwardslash Bookmarks Collection
+ForwardSlash Bookmarks Collection
 =======================================
 
 ## Mobile Apps Development
@@ -6,7 +6,7 @@ Forwardslash Bookmarks Collection
 ### Design Guidelines
 - [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines)
 - [The iOS Design Guidelines](http://iosdesign.ivomynttinen.com)
-- [Google Material Design Guidelines](http://www.google.com/design/spec/material-design/introduction.html)
+- [Google Material Design Guidelines](https://material.io/design/)
 - [Windows Phone 8 Design Guidelines](https://dev.windows.com/en-us/design/modern-design)
 
 ### Inspirations (UI/UX)
@@ -33,6 +33,7 @@ Forwardslash Bookmarks Collection
 - [NicelyDone](http://nicelydone.club/)
 
 ### Prototyping Tools
+- [Framer X](https://framer.com/)
 - [Composite](http://www.getcomposite.com/)
 - [Skala Preview](http://bjango.com/mac/skalapreview/)
 - [Flinto](https://www.flinto.com/)
@@ -47,6 +48,8 @@ Forwardslash Bookmarks Collection
 - [FramerCasts - Learn Framer by watching videos](https://www.framercasts.com/)
 
 ### Other Tools
+- [Zeplin](https://zeplin.io/) 
+- [Avocode](https://avocode.com/)
 - [App Screenshot Builder](http://theapplaunchpad.com/)
 
 ### iOS
@@ -98,7 +101,6 @@ Forwardslash Bookmarks Collection
 - [(Component) Calendar Picker](https://github.com/stephy/CalendarPicker)
 - [(Component) AB Testing](https://github.com/lwansbrough/react-native-ab)
 - [(Component) Parallax](https://github.com/oblador/react-native-parallax)
-
 
 ### PhoneGap/Ionic
 - [(Tutorial) In-App Purchase](http://fovea.cc/blog/index.php/3-steps-tutorial-for-phonegap-in-app-purchase-on-ios/)
