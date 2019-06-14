@@ -51,6 +51,7 @@ ForwardSlash Bookmarks Collection
 - [Zeplin](https://zeplin.io/) 
 - [Avocode](https://avocode.com/)
 - [App Screenshot Builder](http://theapplaunchpad.com/)
+- [Web-based free mockup generator](https://qurb.rishimohan.me)
 
 ### iOS
 - [The iOS Design Guidelines](http://iosdesign.ivomynttinen.com)
