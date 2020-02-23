@@ -288,6 +288,7 @@ ForwardSlash Bookmarks Collection
 - [Pexels (free)](https://www.pexels.com)
 - [Free Stock Photos from Shopify](https://burst.shopify.com/)
 - [EveryPixel - Find and compare stock photo price from many sites](https://everypixel.com/)
+- [Shotzr - Stock photos for digital marketing use](https://web.shotzr.com)
 
 ### Stock Videos
 - [Life of Vids](http://www.lifeofvids.com)
