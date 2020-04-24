@@ -50,6 +50,7 @@ ForwardSlash Bookmarks Collection
 ### Other Tools
 - [Zeplin](https://zeplin.io/) 
 - [Avocode](https://avocode.com/)
+- [Abstract - Version control for designer](https://www.abstract.com/)
 - [App Screenshot Builder](http://theapplaunchpad.com/)
 - [Web-based free mockup generator](https://qurb.rishimohan.me)
 
@@ -252,6 +253,9 @@ ForwardSlash Bookmarks Collection
 - [Free Icon Shop](https://freeiconshop.com/)
 - [Iconscout - An Icon Dictionary](https://iconscout.com/)
 - [Titanic - animated icons + code](https://github.com/icons8/titanic)
+- [Icon8](https://icons8.com/)
+- [NucleoApp](https://nucleoapp.com)
+- [Shape.so](https://shape.so)
 
 ### Colors
 - [uiGradients](http://uigradients.com/)
