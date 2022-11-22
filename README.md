@@ -31,6 +31,7 @@ ForwardSlash Bookmarks Collection
 - [Land-book](http://land-book.com/)
 - [One Page Love](https://onepagelove.com/)
 - [NicelyDone](http://nicelydone.club/)
+- [Landings](https://landings.dev/)
 
 ### Prototyping Tools
 - [Framer X](https://framer.com/)
